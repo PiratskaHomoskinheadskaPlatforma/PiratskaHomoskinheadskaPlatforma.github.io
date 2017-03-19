@@ -169,7 +169,7 @@ h2 {
   color: #343434;
 }
 
-#people {
+#videos {
   width: 300px;
   margin: 25px 0 20px 10px;
   height: 580px;
@@ -178,7 +178,7 @@ h2 {
   color: #ffffff;
 }
 
-#people h1 {
+#videos h1 {
   color: #ffffff;
   font-size: 16pt;
   border: none;
@@ -186,10 +186,12 @@ h2 {
   margin: 10px;
 }
 
-#people div.top3 {
+#videos div.top3 {
   background: #f3f3f3;
   height: 100%;
   padding: 10px;
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
 
 #news {
