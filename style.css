@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,300i,600');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #f3f3f3;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 300;
+}
+
+img {
+  vertical-align: middle;
+}
+
+h1 {
+  font-size: 20pt;
+  color: #DD137B;
+  border-bottom: 4px solid #DD137B;
+}
+
+h2 {
+  font-size: 16pt;
+  margin: 40px 0 20px 0;
+  padding: 0;
+}
+
+#headerLine {
+  background: #343434;
+  width: 100%;
+  height: 32px;
+  padding: 13px 0 0 0;
+  font-size: 10pt;
+  color: #adadad;
+}
+
+#headerLine a {
+  color: #adadad;
+  text-decoration: none;
+  transition: all ease-in-out 0.1s;
+}
+
+#headerLine a:hover {
+  text-decoration: underline;
+  transition: all ease-in-out 0.1s;
+}
+
+#topLinks {
+  background: #ffffff;
+  width: 100%;
+  height: 70px;
+  margin: 0 0 5px 0;
+}
+
+#topLinks a {
+  float: left;
+  color: #343434;
+  text-transform: uppercase;
+  margin: 30px 15px 0 5px;
+  text-decoration: none;
+  transition: all ease-in-out 0.1s;
+}
+
+#topLinks a:hover {
+  color: #DD137B;
+  padding: 0 0 3px 0;
+  border-bottom: 3px solid #DD137B;
+  transition: all ease-in-out 0.1s;
+}
+
+#topLinks span {
+  float: left;
+  margin: 30px 10px 0 0;
+  color: #cccccc;
+}
+
+#graphics {
+  width: 100%;
+  height: 350px;
+  background: url("images/boat.jpg") no-repeat;
+  background-size: cover;
+  background-position: center 70%;
+  overflow: hidden;
+  position: relative;
+}
+
+#graphics img.logo {
+  position: absolute;
+  top: 70px;
+}
+
+#graphics blockquote {
+  color: #f3f3f3;
+  width: 480px;
+  font-size: 16pt;
+  font-style: italic;
+  position: absolute;
+  top: 185px;
+  font-weight: 300;
+  padding: 0 0 0 30px;
+  line-height: 22pt;
+}
+
+#graphics blockquote div.quotes {
+  width: 38px;
+  height: 25px;
+  background: url("images/quotes.png");
+  position: absolute;
+  left: -25px;
+}
+
+#graphics #peopleImage {
+  position: absolute;
+  background: url("images/legopirat.png");
+  height: 358px;
+  width: 345px;
+  right: 0;
+}
+
+#middleLinks {
+  min-height: 100px;
+  padding: 25px 0 25px 0;
+}
+
+#middleLinks div.rightCol {
+  width: 560px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#middleLinks div.rightCol a {
+  width: 250px;
+  height: 120px;
+  background: #ffffff;
+  margin: 30px 30px 0 0;
+  float: left;
+  text-decoration: none;
+}
+
+#middleLinks div.button {
+  width: 180px;
+  height: 100%;
+  margin: auto;
+  border-top: 4px solid #DD137B;
+  position: relative;
+  font-size: 24pt;
+  color: #343434;
+  text-align: center;
+  transition: all ease-in-out 0.1s;
+}
+
+#middleLinks div.button:hover {
+  color: #DD137B;
+  transition: all ease-in-out 0.1s;
+}
+
+#middleLinks div.button span.smallFont {
+  font-size: 12pt;
+}
+
+#middleLinks div.button img {
+  position: absolute;
+  bottom: 5px;
+  right: -35px;
+}
+
+#container {
+  background: #ffffff;
+  color: #343434;
+}
+
+#people {
+  width: 300px;
+  margin: 25px 0 20px 10px;
+  height: 580px;
+  float: right;
+  background: #DD137B;
+  color: #ffffff;
+}
+
+#people h1 {
+  color: #ffffff;
+  font-size: 16pt;
+  border: none;
+  padding: 0;
+  margin: 10px;
+}
+
+#people div.top3 {
+  background: #f3f3f3;
+  height: 100%;
+  padding: 10px;
+}
+
+#news {
+  padding: 25px 320px 25px 0;
+  min-height: 600px;
+}
+
+#news ul {
+  color: #343434;
+}
+
+#news li {
+  line-height: 22pt;
+}
+
+#news a, #about a {
+  color: #343434;
+  text-decoration: underline;
+  transition: all ease-in-out 0.1s;
+}
+
+#news a:hover, #about a:hover {
+  color: #DD137B;
+  transition: all ease-in-out 0.1s;
+}
+
+#about {
+  color: #343434;
+  padding: 25px 0 25px 0;
+}
+
+#about img {
+  border: 1px solid #cccccc;
+  padding: 10px;
+}
+
+#footer {
+  background: url("images/lightGrey.png") repeat;
+}
+
+#footer div.content {
+  padding: 25px 0 25px 0;
+}
+
+#footer div.rightCol {
+  position: absolute;
+  right: 0;
+  top: 90px;
+  text-align: right;
+}
+
+#disclaimer {
+  background: #343434;
+  color: #f3f3f3;
+  font-size: 10pt;
+  padding: 25px 0 25px 0;
+  text-align: center;
+}
+
+div.content {
+  width: 1150px;
+  margin: auto;
+  position: relative;
+  color: #f3f3f3;
+}
+
+.floatRight {
+  float: right !important;
+}
+
+.copyleft {
+  display: inline-block;
+  transform: matrix(-1, 0, 0, 1, 0, 0) !important;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+#scroll {
+  display: none;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
