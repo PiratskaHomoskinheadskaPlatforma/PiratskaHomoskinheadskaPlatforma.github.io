@@ -1,0 +1,1104 @@
+a.interwiki { background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAw1BMVEUAAAACAgIaHB0bHB0bHR0aHB4cHh8dHx8eICIfISIUKT4dJzAnKywpLCwhLTkfPl8nN0clPVM9QUMvVXU8WnVBREZESEpKYXVWZXBpbnJqb3JtcXRuc3VvdXhzdnhyeHtefJVdf5xtjKV+mrJ8nLZ7n7uKpruXp7OCpsGVscOfv9Wius2ku82iwtitxdW+yc+yxta70eC51OS/1OHAyc3Bys7Cy8/Dys/N0dXR1djA1eLD1+TK2eXX3OHc4uTg5en////YsFbQAAAAN3RSTlP///////////////////////////////////////////////////////////////////////8AEFmdiwAAAHBJREFUGNNjMEMDDEQKSLIwMrLKIgSE5CztbC14xGACUrz21kbGNuo88lABJnNtLV1DAx0JdqgAo76KqoaVnqY4I1TAAQQU1ZQF4QIMDAwOwkoKfGxwFUABfhEBThm4CiDk4uYQNUM2g5FZmiS/IAEA1Asuof8Jfq8AAAAASUVORK5CYII=) 0px 1px no-repeat; padding: 1px 0px 1px 16px;}a.iw_wp {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMJADIxMlRUVG9vb4B/gJGRka6urtTV1N/g3/j5+P///wAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAkALAAAAAAQABAAAARYMMlJq70W6c017SBCGUKBEMRhpAVBHQGBFIDRzsVHAAcspLPDxwAw0Uw24URDCPQAsoLpgyAWDAEnkIoIlAoxk2jJhCIEPA8ZcSAYqjK1hHPY1OWYvJ4SAQA7)}a.iw_wpfr {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMJADIxMlRUVG9vb4B/gJGRka6urtTV1N/g3/j5+P///wAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAkALAAAAAAQABAAAARYMMlJq70W6c017SBCGUKBEMRhpAVBHQGBFIDRzsVHAAcspLPDxwAw0Uw24URDCPQAsoLpgyAWDAEnkIoIlAoxk2jJhCIEPA8ZcSAYqjK1hHPY1OWYvJ4SAQA7)}a.iw_wpde {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMJADIxMlRUVG9vb4B/gJGRka6urtTV1N/g3/j5+P///wAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAkALAAAAAAQABAAAARYMMlJq70W6c017SBCGUKBEMRhpAVBHQGBFIDRzsVHAAcspLPDxwAw0Uw24URDCPQAsoLpgyAWDAEnkIoIlAoxk2jJhCIEPA8ZcSAYqjK1hHPY1OWYvJ4SAQA7)}a.iw_wpes {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMJADIxMlRUVG9vb4B/gJGRka6urtTV1N/g3/j5+P///wAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAkALAAAAAAQABAAAARYMMlJq70W6c017SBCGUKBEMRhpAVBHQGBFIDRzsVHAAcspLPDxwAw0Uw24URDCPQAsoLpgyAWDAEnkIoIlAoxk2jJhCIEPA8ZcSAYqjK1hHPY1OWYvJ4SAQA7)}a.iw_wppl {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMJADIxMlRUVG9vb4B/gJGRka6urtTV1N/g3/j5+P///wAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAkALAAAAAAQABAAAARYMMlJq70W6c017SBCGUKBEMRhpAVBHQGBFIDRzsVHAAcspLPDxwAw0Uw24URDCPQAsoLpgyAWDAEnkIoIlAoxk2jJhCIEPA8ZcSAYqjK1hHPY1OWYvJ4SAQA7)}a.iw_wpjp {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMJADIxMlRUVG9vb4B/gJGRka6urtTV1N/g3/j5+P///wAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAkALAAAAAAQABAAAARYMMlJq70W6c017SBCGUKBEMRhpAVBHQGBFIDRzsVHAAcspLPDxwAw0Uw24URDCPQAsoLpgyAWDAEnkIoIlAoxk2jJhCIEPA8ZcSAYqjK1hHPY1OWYvJ4SAQA7)}a.iw_wpmeta {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMJADIxMlRUVG9vb4B/gJGRka6urtTV1N/g3/j5+P///wAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAkALAAAAAAQABAAAARYMMlJq70W6c017SBCGUKBEMRhpAVBHQGBFIDRzsVHAAcspLPDxwAw0Uw24URDCPQAsoLpgyAWDAEnkIoIlAoxk2jJhCIEPA8ZcSAYqjK1hHPY1OWYvJ4SAQA7)}a.iw_doku {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMOAKpvR8JMK0umTje1J6rCc7SrnrfHtNvEq8vLy87hzvbqxvv98uze3rattP///wB9ACH5BAEAAA4ALAAAAAAQABAAAARp0MlJq72XHWOKOUkBNFRRKGiSLEVwABSiGE1Dt4FLNQcisznAoXI4oBaHXGFhIBqTgABgsSBRFrIECLFIGBIWhEFAMCC8qyaF83gMBAYqp7Icv99f9aSxYDDGZAMrFWgNMggCVhiLjBcRADs=)}a.iw_dokubug {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMAADg4WKDI8ACAgDiYmICAAPj48P///6CgoAAAAP///wAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAkALAAAAAAQABAAAARTMMkEpr0T2YrlQcfEbUgJIBXYJV8QoCilXUAADO4AGkB1soiBoZADhCymQGGYm1kONaWg6JSccK6aDjoC3Vwv21GUQA3Or5FVBOsRVuUxfD0nwyMAOw==)}a.iw_amazon {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPIAABYWFmVlZYmOeffCbqurq/XUnuXh2////yH5BAEAAAcALAAAAAAQABAAAAMzeLrc/jBCASqRpIZqIhHddkVUBYzPFhhW1LbQZlaREQQgCBVKpxS8x2A4LBh8kqRyyUgAADs=)}a.iw_amazon_de {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPIAABYWFmVlZYmOeffCbqurq/XUnuXh2////yH5BAEAAAcALAAAAAAQABAAAAMzeLrc/jBCASqRpIZqIhHddkVUBYzPFhhW1LbQZlaREQQgCBVKpxS8x2A4LBh8kqRyyUgAADs=)}a.iw_amazon_uk {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPIAABYWFmVlZYmOeffCbqurq/XUnuXh2////yH5BAEAAAcALAAAAAAQABAAAAMzeLrc/jBCASqRpIZqIhHddkVUBYzPFhhW1LbQZlaREQQgCBVKpxS8x2A4LBh8kqRyyUgAADs=)}a.iw_paypal {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMAAAQyZBlGdCdTfDFbhDVmm050lm6Kq4SetIyivJKtyKS6zLzK2NTa5Nzk7Pv+/AAAACH5BAAAAAAALAAAAAAQABAAAARY0ElAq5XYaoqwAwEVHEYhUEOSVQZmVA4xUcLiwrJVYEyBxh9WAmEg0AyM3KYy2CWUm4DA0FgQjBabh6G4Bn/Fq1j2BSAaXs8K5HiqPZUCmvxWW+vqMV4SAQA7)}a.iw_phpfn {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMOAAcMFB4eMCw2UTpEakVNaVRmlWJqklhqo2J0rGeDt3iT2H+a5YGU1Y6q7AAAAAAAACH5BAEAAA4ALAAAAAAQABAAAARR0MlJq704681p+w0DgE3VLEwqImwheAihpAB7IAMASGGaAAEWojCgLAYEg1B4eE0UAQIiYSsMnZKjBMEIeAUuiqLoYO0cBCJlQPaedeeO3BIBADs=)}a.iw_coral {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAKEDALAXMQuIC+/nCv///yH5BAEKAAMALAAAAAAQABAAAAImnI+py+0PWZg0yGVTxlp4tRlCBpRlKA4VBSweICAtMx/1YpbRzhQAOw==)}a.iw_sb {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMAAHplBFtNBDAoBIp0CpyHJKiUNJSCFLOeRLqpVci3b8zCfNPHjdzWpOTbs+zkyfz+/CH5BAAAAAAALAAAAAAQABAAAARw8MlJa12oaPSaVUdBEBoRJp6UiFpxvOzBPIurHUielYcD5wsMAiciKW6oBGEAABQQS9PONgiMBlVBoMAQvbCmAjNxCBgejgaDgRgrBgQMYFFprIIGQAIwcFgeawsDWgEKfxIMKy9+h2gKCY0VaZGUEQA7)}a.iw_skype {  background-image: url(/lib/images/interwiki/skype.png)}a.iw_callto {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMPAMwwK16QCxl1zxmQ5iqd6lih4ZeYmqyur52go9TW2eni3d3f4fPx7t/f38S+vP///yH5BAEKAA8ALAAAAAAQABAAAARf8Mkp3XGO6ukYO9tzjNbBLON2KJ5nKaC2CnRhNzFlCoRtwyrFgEAkDIAyYdGoQGwQrejCqUEsAgFHAgCYPheJsNhbXRgM4TOZYk0swA03lWJgIAyKZt2wOfv/fCGCExEAOw==)}a.iw_google {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMAANlXReFUT8BGIW/GclWjWS1Lq0tatThjzFeG2mSI3HaBrZSp37XJ7PX59tPe6P8A/yH5BAEAAA8ALAAAAAAQABAAAARX8MlJq732jM07oUjTOMxiMk4DgCOSMLCiqGySiKKTrhPCGLggrbcoCHEBUPEo4kl8hZSIoVg4kj3H4SAlRbGSm8NggJWizsdNtFAkTkMJoUMfCDD4/CUCADs=)}a.iw_meatball {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPMAAMZCId5aUvpVR/97e/+EMe+MWtaMe+uIb96ckP+8k/+1tf/Orfva0P/n3v/+/v8A/yH5BAEAAA8AIf6iRklMRSBJREVOVElUWQ0KQ3JlYXRlZCBvciBtb2RpZmllZCBieQ0KU1VOSVIgU0hBSA0KKFN1bmlyIFNoYWgpDQoNCg0KQ3JlYXRlZCBieSBBbGNoZW15IE1pbmR3b3JrcycNCkdJRiBDb25zdHJ1Y3Rpb24gU2V0IFByb2Zlc3Npb25hbA0KaHR0cDovL3d3dy5taW5kd29ya3Nob3AuY29tACwAAAAAEAAQAAAEWvDJSatt1Vk5xhsC8iCiNTgDYqROSSmHI88tUwkJPScFxQwN3QxheyRyuqAjd2QgDQ2AtEGoyhZGpHCXkDAQW9ShKDloaQlB5bsdKCxgREqO2pBGAU9nw6dEAAA7)}a.iw_wiki {  background-image: url(data:image/gif;base64,R0lGODlhEAAQAPIAAAAAACAgAEBAQGBgQICAgKCggMDA/////yH5BAEAAAcALAAAAAAQABAAAANIeLrcPS6qIKOwSxhVHCULdVwLIQxBsE0HQQQFGBfQYWxEXbpdAx6zQ0DHAP0CAJKDsDKcKoZOVOmQGgZUzwEA6EkKKVVl7EgAADs=)}.mediafile { background: transparent url(/lib/images/fileicons/file.png) 0px 1px no-repeat; padding-left: 18px; padding-bottom: 1px;}.mf_audio {  background-image: url(/lib/images/fileicons/audio.png)}.mf_zip {  background-image: url(/lib/images/fileicons/zip.png)}.mf_odp {  background-image: url(/lib/images/fileicons/odp.png)}.mf_odf {  background-image: url(/lib/images/fileicons/odf.png)}.mf_rpm {  background-image: url(/lib/images/fileicons/rpm.png)}.mf_php {  background-image: url(/lib/images/fileicons/php.png)}.mf_xml {  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAulBMVEUAEK5ZgcZYgsVdhMRehMRhiMNiicNlisJni8FpjMH/ZgBsjsBujr9ykL9ykb92k716lbt7lbx+l7qCmryFnb6IoMCLosKMosKPpcSRp8aSqMaVq8iXrMmQrtaZrcqdsc2jttGpu9SvwNizw9rS4vrU4/rW5PrX5fvZ5vvb5/vc6Pve6fvg6vzh7Pzj7fzl7vzm7/zo8P3q8f3r8v3t8/3v9P3w9v7y9/70+P71+f73+v75+/////9VgMjnfNz/AAAAAXRSTlMAQObYZgAAAI1JREFUGNNdzCEPwjAYhOF3TQ0QQmAJAhYEuMnP8v9tZR0SRRgO1+8Q3YDsxJl7cg1wcamU4s4AEdBBkqRbnweaJX+xPAQMw6B2vwvjhAHkTCBZohZ0RwKWDEgAJs1Oz7rHN5z2+iUCRXpUsZZHQFI7AY+AS88qViqj2M7Fq4rF92MzidIArePy4u668gEtEW2ciT7G9AAAAABJRU5ErkJggg==)}.mf_ogg {  background-image: url(/lib/images/fileicons/ogg.png)}.mf_mp3 {  background-image: url(/lib/images/fileicons/mp3.png)}.mf_htm {  background-image: url(/lib/images/fileicons/htm.png)}.mf_csv {  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAulBMVEUAEK6Cmrx7lbx2k71ykb9ujr9pjMFlisJhiMNdhMRYgsVVgMiFnb7j7fzh7Pzg6vze6fvc6Pvb5/vZ5vvX5fvW5PrU4/rS4vpZgcaIoMDl7vyQrtZehMSMosLm7/xiicOPpcTo8P1ni8GSqMbq8f1sjsCVq8jr8v1ykL+Zrcrt8/0AwAB6lbv///9+l7qvwNj5+//3+v71+f70+P7y9/7w9v7v9P2zw9qpu9SjttGdsc2XrMmRp8aLosJ3qRcFAAAAAXRSTlMAQObYZgAAAIRJREFUGFdNikEKwkAMAGdij9JHCB5E0KP/f4HQD+gbLGiRJnrYFg2EkJkRuKjqdccAAucGnD4OeORvwiEg2gYBn1NHFES1QggAarm3Ox0VVFBUFEoHBdUytAQOZmbOo+qjA9J8gT083S9g07zmAtIeYFrB6pdiduwB4G0KbFetKqD83i/FajI0Ff0WogAAAABJRU5ErkJggg==)}.mf_jpeg {  background-image: url(/lib/images/fileicons/jpeg.png)}.mf_sxw {  background-image: url(/lib/images/fileicons/sxw.png)}.mf_css {  background-image: url(/lib/images/fileicons/css.png)}.mf_rar {  background-image: url(/lib/images/fileicons/rar.png)}.mf_ods {  background-image: url(/lib/images/fileicons/ods.png)}.mf_bz2 {  background-image: url(/lib/images/fileicons/bz2.png)}.mf_rb {  background-image: url(/lib/images/fileicons/rb.png)}.mf_sxc {  background-image: url(/lib/images/fileicons/sxc.png)}.mf_swf {  background-image: url(/lib/images/fileicons/swf.png)}.mf_sxd {  background-image: url(/lib/images/fileicons/sxd.png)}.mf_sxi {  background-image: url(/lib/images/fileicons/sxi.png)}.mf_jpg {  background-image: url(/lib/images/fileicons/jpg.png)}.mf_pptx {  background-image: url(/lib/images/fileicons/pptx.png)}.mf_7z {  background-image: url(/lib/images/fileicons/7z.png)}.mf_odi {  background-image: url(/lib/images/fileicons/odi.png)}.mf_ppt {  background-image: url(/lib/images/fileicons/ppt.png)}.mf_doc {  background-image: url(/lib/images/fileicons/doc.png)}.mf_deb {  background-image: url(/lib/images/fileicons/deb.png)}.mf_gz {  background-image: url(/lib/images/fileicons/gz.png)}.mf_rtf {  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAulBMVEUAEK5VgMhZgcZYgsVdhMRehMRhiMNiicNlisJni8FpjMFsjsBujr9ykL9ykb92k716lbt7lbx+l7qCmryFnb6IoMCLosKMosKPpcSRp8aSqMaVq8iXrMmQrtaZrcqdsc2jttGpu9SvwNizw9rS4vrU4/rW5PrX5fvZ5vvb5/vc6Pve6fvg6vzh7Pzj7fzl7vzm7/zo8P3q8f3r8v3t8/3v9P3w9v7y9/70+P71+f73+v75+/////+qYAjfsioSAAAAAXRSTlMAQObYZgAAAIZJREFUGBlNwTEKwlAQQMG3YRsRERUsLGzscgfvf4N0lqnEeIK/TxOCOBPArbS1VsUECXhx8eiHibzzpx+mDkVFBfpjQhgGBAxAgsHMuKpjByGzwC86giAgwLdWANezP2MCTZ8sdlYC6slVJVD6YrG1ElAPriqB0jeLjZWAunfVAjgVZc0sPr9uex/kxeyhAAAAAElFTkSuQmCC)}.mf_pl {  background-image: url(/lib/images/fileicons/pl.png)}.mf_docx {  background-image: url(/lib/images/fileicons/docx.png)}.mf_odc {  background-image: url(/lib/images/fileicons/odc.png)}.mf_ps {  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA3lBMVEUAEQAJfttVgMhZgcZYgsUyk99dhMRehMQ4l+BhiMNiicNlisJni8E/muBpjMFCnOFsjsBujr9ykL9ykb92k716lbt7lbx+l7qCmryFnb6IoMCLosKMosKPpcSRp8aSqMZ3s+OXrMl4uOadsc2jttGpu9SRxeivwNizw9qo0eus0+u60Oe12Oy52ey82+3L4+7N5O7S4vrU4/rW5PrX5fvZ5vvb5/vc6Pve6fvg6vzh7Pzj7fzl7vzm7/zo8vHo8P3q8f3v9P3w9v7y9/70+P71+f73+v75+/////8VSpmf3UmXAAAAAXRSTlMAQObYZgAAAKZJREFUGBkFwTtKQ2EUBsD54YCtYKeFYCE2IQQL1+CKXYLlbcSIj9IihQpGDUru+ZwpXMxJz3O3DYWcJUlyv5o26hoAVtOmhEEYWE3FkJEBE4oYRgznSV6KAUNGkiggDNmuL7sMGPB5V0ndcHoMts+LdbrgIJ18/y1+pQudTr623pxkX0gnH6/LH7vHoy508v5gWt2SuZDk8CrZLZPsC3nS6Xnuuds/oW5vGR3jLDUAAAAASUVORK5CYII=)}.mf_xlsx {  background-image: url(/lib/images/fileicons/xlsx.png)}.mf_conf {  background-image: url(/lib/images/fileicons/conf.png)}.mf_wav {  background-image: url(/lib/images/fileicons/wav.png)}.mf_java {  background-image: url(/lib/images/fileicons/java.png)}.mf_sql {  background-image: url(/lib/images/fileicons/sql.png)}.mf_cpp {  background-image: url(/lib/images/fileicons/cpp.png)}.mf_odg {  background-image: url(/lib/images/fileicons/odg.png)}.mf_js {  background-image: url(/lib/images/fileicons/js.png)}.mf_txt {  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA6lBMVEUI8ABZgcZYgsVdhMRehMRhiMNiicNlisJni8FpjMFsjsBujr9ykL9ykb92k716lbt7lbx+l7qCmryFnb6IoMCLosKMosKPpcSRp8aSqMaVq8iXrMmQrtaarsudsM2dsc2htM6jttGkttGnudOpu9SqvNWuvtevwNizw9rS4vrU4/rW5PrX5fvZ5vvb5/vc6Pve6fvg6vzh7Pzj7fzl7vzm7/zo8P3q8f3q8v3r8v3r8v7s8v3t8v3t8/3u8/7u9P3u9P7v9P3v9f3w9f3w9f7w9v7x9v7x9/3y9/7z9/3z9/70+P7///9VgMjvH1NcAAAAAXRSTlMAQObYZgAAAJZJREFUGNNdzSEOwkAYROG3ZB2CFEIaBApBE47QI3DucgAsAgwhqCoM9J9BbItg9Jd5CWiG0BAh0UMGvAeAU9v1zAA7bEVAWxUxpDNwANouA3I0hqBj/AhfAObUvmZA0i5FSi/bZECfdCudtZUBiy3Jftt2BgLdi1hNwhuPU8n6UUQ1Crv+F88iFj+xnkQkYClkSZKPfAHVR3lIQ2mXJAAAAABJRU5ErkJggg==)}.mf_gif {  background-image: url(/lib/images/fileicons/gif.png)}.mf_html {  background-image: url(/lib/images/fileicons/html.png)}.mf_cs {  background-image: url(/lib/images/fileicons/cs.png)}.mf_xls {  background-image: url(/lib/images/fileicons/xls.png)}.mf_odt {  background-image: url(/lib/images/fileicons/odt.png)}.mf_tar {  background-image: url(/lib/images/fileicons/tar.png)}.mf_py {  background-image: url(/lib/images/fileicons/py.png)}.mf_c {  background-image: url(/lib/images/fileicons/c.png)}.mf_lua {  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA2FBMVEUAAAACAn4MDYNVgMhZgcZYgsVdhMRehMRhiMNiicNlisJni8FpjMFsjsBujr9ykL9ykb92k716lbt7lbx+l7qCmryFnb6LosKRp8aXrMmdsc2jttGpu9SqvNWuvtevwNizw9rU5PrW5PrW5frW5fvX5fvY5frY5vvZ5vvZ5/va5/ra5/vc6Pvc6fze6fve6vvf6/zg6/zh7Pvh7Pzi7fzj7fzj7v3l7v3r8v3s8/3t8/3t9P7u9P3v9P3v9f7w9f7w9v3x9v3y9/3y9/7z9/70+P7///8AAH2ZZ7oyAAAAAXRSTlMAQObYZgAAAI5JREFUGBkFwTFOQlEUBcB5ya1NbGxsaG1hD7JmFgG2lgahozDW/nOcGez+2raNB4O+aZJ87i8Pg0qS9OBwfgyawW+xvwzut3c8OR9cDEdQ6/CT3dcASlcb4wjA86MZwKrF1g66sCDNAF1qSTNOR9BV9yYDpauaLRlOR7B8p8ng4/UFt61bug16vaZJksY/4Rdl5XlMk2kAAAAASUVORK5CYII=)}.mf_png {  background-image: url(/lib/images/fileicons/png.png)}.mf_pdf {  background-image: url(/lib/images/fileicons/pdf.png)}.mf_tgz {  background-image: url(/lib/images/fileicons/tgz.png)}/**
+ * Basic styles. These styles are needed for basic DokuWiki functions
+ * regardless of the used template. Templates can override them of course
+ */
+
+/* messages with msg() */
+div.error,
+div.info,
+div.success,
+div.notify {
+    display: none;
+}
+
+/* section edit button */
+.secedit {
+    display: none;
+}
+
+/* modal windows */
+.JSpopup,
+#link__wiz {
+    display: none;
+}
+/*
+ * jQuery UI CSS Framework 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Theming/API
+ */
+
+/* Layout helpers
+----------------------------------*/
+.ui-helper-hidden { display: none; }
+.ui-helper-hidden-accessible { position: absolute !important; clip: rect(1px 1px 1px 1px); clip: rect(1px,1px,1px,1px); }
+.ui-helper-reset { margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none; }
+.ui-helper-clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.ui-helper-clearfix { display: inline-block; }
+/* required comment for clearfix to work in Opera \*/
+* html .ui-helper-clearfix { height:1%; }
+.ui-helper-clearfix { display:block; }
+/* end clearfix */
+.ui-helper-zfix { width: 100%; height: 100%; top: 0; left: 0; position: absolute; opacity: 0; filter:Alpha(Opacity=0); }
+
+
+/* Interaction Cues
+----------------------------------*/
+.ui-state-disabled { cursor: default !important; }
+
+
+/* Icons
+----------------------------------*/
+
+/* states and images */
+.ui-icon { display: block; text-indent: -99999px; overflow: hidden; background-repeat: no-repeat; }
+
+
+/* Misc visuals
+----------------------------------*/
+
+/* Overlays */
+.ui-widget-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+
+/*
+ * jQuery UI CSS Framework 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Theming/API
+ *
+ * To view and modify this theme, visit http://jqueryui.com/themeroller/?ffDefault=Verdana,Arial,sans-serif&fwDefault=normal&fsDefault=1.1em&cornerRadius=4px&bgColorHeader=cccccc&bgTextureHeader=03_highlight_soft.png&bgImgOpacityHeader=75&borderColorHeader=aaaaaa&fcHeader=222222&iconColorHeader=222222&bgColorContent=ffffff&bgTextureContent=01_flat.png&bgImgOpacityContent=75&borderColorContent=aaaaaa&fcContent=222222&iconColorContent=222222&bgColorDefault=e6e6e6&bgTextureDefault=02_glass.png&bgImgOpacityDefault=75&borderColorDefault=d3d3d3&fcDefault=555555&iconColorDefault=888888&bgColorHover=dadada&bgTextureHover=02_glass.png&bgImgOpacityHover=75&borderColorHover=999999&fcHover=212121&iconColorHover=454545&bgColorActive=ffffff&bgTextureActive=02_glass.png&bgImgOpacityActive=65&borderColorActive=aaaaaa&fcActive=212121&iconColorActive=454545&bgColorHighlight=fbf9ee&bgTextureHighlight=02_glass.png&bgImgOpacityHighlight=55&borderColorHighlight=fcefa1&fcHighlight=363636&iconColorHighlight=2e83ff&bgColorError=fef1ec&bgTextureError=02_glass.png&bgImgOpacityError=95&borderColorError=cd0a0a&fcError=cd0a0a&iconColorError=cd0a0a&bgColorOverlay=aaaaaa&bgTextureOverlay=01_flat.png&bgImgOpacityOverlay=0&opacityOverlay=30&bgColorShadow=aaaaaa&bgTextureShadow=01_flat.png&bgImgOpacityShadow=0&opacityShadow=30&thicknessShadow=8px&offsetTopShadow=-8px&offsetLeftShadow=-8px&cornerRadiusShadow=8px
+ */
+
+
+/* Component containers
+----------------------------------*/
+.ui-widget { font-size: 1.1em; }
+.ui-widget .ui-widget { font-size: 1em; }
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-size: 1em; }
+.ui-widget-content { border: 1px solid #aaaaaa; background: #ffffff url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABkCAYAAAD0ZHJ6AAAAeUlEQVRoge3OMQHAIBAAsVL/nh8JDDfAkCjImpn5HvbfDpwIVoKVYCVYCVaClWAlWAlWgpVgJVgJVoKVYCVYCVaClWAlWAlWgpVgJVgJVoKVYCVYCVaClWAlWAlWgpVgJVgJVoKVYCVYCVaClWAlWAlWgpVgJVgJVhtqiwTEKTLXTgAAAABJRU5ErkJggg==) 50% 50% repeat-x; color: #222222; }
+.ui-widget-content a { color: #222222; }
+.ui-widget-header { border: 1px solid #aaaaaa; background: #cccccc url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAABkCAYAAABHLFpgAAAALElEQVQYlWN49OjRfyYGBgaGIUT8//8fSqBx0Yh///4RL8vAwAAVQ2MNOwIAl6g6KkOJwk8AAAAASUVORK5CYII=) 50% 50% repeat-x; color: #222222; font-weight: bold; }
+.ui-widget-header a { color: #222222; }
+
+/* Interaction states
+----------------------------------*/
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { border: 1px solid #d3d3d3; background: #e6e6e6 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAGQCAYAAABvWArbAAAANUlEQVQ4je3LMQoAIBADwb38/6t5wFXaWAiCtUiaYZvF9hBACOFbuntVVe11B0CSjjeE8BwThQIJ8dhEl0YAAAAASUVORK5CYII=) 50% 50% repeat-x; font-weight: normal; color: #555555; }
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited { color: #555555; text-decoration: none; }
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus { border: 1px solid #999999; background: #dadada url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAGQCAYAAABvWArbAAAANklEQVQ4jWN48uTJfyYGBgaGUWKUGCWGLfHt2zcoi5GREYNgYmJCZiG42IiB98woMUqMEtgIAMdjCdyg+eEBAAAAAElFTkSuQmCC) 50% 50% repeat-x; font-weight: normal; color: #212121; }
+.ui-state-hover a, .ui-state-hover a:hover { color: #212121; text-decoration: none; }
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { border: 1px solid #aaaaaa; background: #ffffff url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAGQCAYAAABvWArbAAAAMElEQVQ4je3LIQ4AIBTD0O3f/8wrFgmKhMy8pKJKwkhSKeVbbGuAPU9f4PIopTxgAeS0DRtI4yK0AAAAAElFTkSuQmCC) 50% 50% repeat-x; font-weight: normal; color: #212121; }
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited { color: #212121; text-decoration: none; }
+.ui-widget :active { outline: none; }
+
+/* Interaction Cues
+----------------------------------*/
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight  {border: 1px solid #fcefa1; background: #fbf9ee url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAGQCAYAAABvWArbAAAAP0lEQVQ4je3PMQrAMABC0a/3v2zX0mCXNkOgc6C4PARd5DqPGKCU8luS8SbAQhiCQRgJE56kZTfbbP9RSvnkBsWcEAZRWcgqAAAAAElFTkSuQmCC) 50% 50% repeat-x; color: #363636; }
+.ui-state-highlight a, .ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a { color: #363636; }
+.ui-state-error, .ui-widget-content .ui-state-error, .ui-widget-header .ui-state-error {border: 1px solid #cd0a0a; background: #fef1ec url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAGQCAYAAABvWArbAAAAPklEQVQ4je3PMQqAMABD0Z/c/7aCIAXjJIhD10LJ8vgZw30eMUApZV/GhZNgSTjoLYElY/hNMJ/S6gullCkPiCIPCr4NiEwAAAAASUVORK5CYII=) 50% 50% repeat-x; color: #cd0a0a; }
+.ui-state-error a, .ui-widget-content .ui-state-error a, .ui-widget-header .ui-state-error a { color: #cd0a0a; }
+.ui-state-error-text, .ui-widget-content .ui-state-error-text, .ui-widget-header .ui-state-error-text { color: #cd0a0a; }
+.ui-priority-primary, .ui-widget-content .ui-priority-primary, .ui-widget-header .ui-priority-primary { font-weight: bold; }
+.ui-priority-secondary, .ui-widget-content .ui-priority-secondary,  .ui-widget-header .ui-priority-secondary { opacity: .7; filter:Alpha(Opacity=70); font-weight: normal; }
+.ui-state-disabled, .ui-widget-content .ui-state-disabled, .ui-widget-header .ui-state-disabled { opacity: .35; filter:Alpha(Opacity=35); background-image: none; }
+
+/* Icons
+----------------------------------*/
+
+/* states and images */
+.ui-icon { width: 16px; height: 16px; background-image: url(/lib/scripts/jquery/jquery-ui-theme/images/ui-icons_222222_256x240.png); }
+.ui-widget-content .ui-icon {background-image: url(/lib/scripts/jquery/jquery-ui-theme/images/ui-icons_222222_256x240.png); }
+.ui-widget-header .ui-icon {background-image: url(/lib/scripts/jquery/jquery-ui-theme/images/ui-icons_222222_256x240.png); }
+.ui-state-default .ui-icon { background-image: url(/lib/scripts/jquery/jquery-ui-theme/images/ui-icons_888888_256x240.png); }
+.ui-state-hover .ui-icon, .ui-state-focus .ui-icon {background-image: url(/lib/scripts/jquery/jquery-ui-theme/images/ui-icons_454545_256x240.png); }
+.ui-state-active .ui-icon {background-image: url(/lib/scripts/jquery/jquery-ui-theme/images/ui-icons_454545_256x240.png); }
+.ui-state-highlight .ui-icon {background-image: url(/lib/scripts/jquery/jquery-ui-theme/images/ui-icons_2e83ff_256x240.png); }
+.ui-state-error .ui-icon, .ui-state-error-text .ui-icon {background-image: url(/lib/scripts/jquery/jquery-ui-theme/images/ui-icons_cd0a0a_256x240.png); }
+
+/* positioning */
+.ui-icon-carat-1-n { background-position: 0 0; }
+.ui-icon-carat-1-ne { background-position: -16px 0; }
+.ui-icon-carat-1-e { background-position: -32px 0; }
+.ui-icon-carat-1-se { background-position: -48px 0; }
+.ui-icon-carat-1-s { background-position: -64px 0; }
+.ui-icon-carat-1-sw { background-position: -80px 0; }
+.ui-icon-carat-1-w { background-position: -96px 0; }
+.ui-icon-carat-1-nw { background-position: -112px 0; }
+.ui-icon-carat-2-n-s { background-position: -128px 0; }
+.ui-icon-carat-2-e-w { background-position: -144px 0; }
+.ui-icon-triangle-1-n { background-position: 0 -16px; }
+.ui-icon-triangle-1-ne { background-position: -16px -16px; }
+.ui-icon-triangle-1-e { background-position: -32px -16px; }
+.ui-icon-triangle-1-se { background-position: -48px -16px; }
+.ui-icon-triangle-1-s { background-position: -64px -16px; }
+.ui-icon-triangle-1-sw { background-position: -80px -16px; }
+.ui-icon-triangle-1-w { background-position: -96px -16px; }
+.ui-icon-triangle-1-nw { background-position: -112px -16px; }
+.ui-icon-triangle-2-n-s { background-position: -128px -16px; }
+.ui-icon-triangle-2-e-w { background-position: -144px -16px; }
+.ui-icon-arrow-1-n { background-position: 0 -32px; }
+.ui-icon-arrow-1-ne { background-position: -16px -32px; }
+.ui-icon-arrow-1-e { background-position: -32px -32px; }
+.ui-icon-arrow-1-se { background-position: -48px -32px; }
+.ui-icon-arrow-1-s { background-position: -64px -32px; }
+.ui-icon-arrow-1-sw { background-position: -80px -32px; }
+.ui-icon-arrow-1-w { background-position: -96px -32px; }
+.ui-icon-arrow-1-nw { background-position: -112px -32px; }
+.ui-icon-arrow-2-n-s { background-position: -128px -32px; }
+.ui-icon-arrow-2-ne-sw { background-position: -144px -32px; }
+.ui-icon-arrow-2-e-w { background-position: -160px -32px; }
+.ui-icon-arrow-2-se-nw { background-position: -176px -32px; }
+.ui-icon-arrowstop-1-n { background-position: -192px -32px; }
+.ui-icon-arrowstop-1-e { background-position: -208px -32px; }
+.ui-icon-arrowstop-1-s { background-position: -224px -32px; }
+.ui-icon-arrowstop-1-w { background-position: -240px -32px; }
+.ui-icon-arrowthick-1-n { background-position: 0 -48px; }
+.ui-icon-arrowthick-1-ne { background-position: -16px -48px; }
+.ui-icon-arrowthick-1-e { background-position: -32px -48px; }
+.ui-icon-arrowthick-1-se { background-position: -48px -48px; }
+.ui-icon-arrowthick-1-s { background-position: -64px -48px; }
+.ui-icon-arrowthick-1-sw { background-position: -80px -48px; }
+.ui-icon-arrowthick-1-w { background-position: -96px -48px; }
+.ui-icon-arrowthick-1-nw { background-position: -112px -48px; }
+.ui-icon-arrowthick-2-n-s { background-position: -128px -48px; }
+.ui-icon-arrowthick-2-ne-sw { background-position: -144px -48px; }
+.ui-icon-arrowthick-2-e-w { background-position: -160px -48px; }
+.ui-icon-arrowthick-2-se-nw { background-position: -176px -48px; }
+.ui-icon-arrowthickstop-1-n { background-position: -192px -48px; }
+.ui-icon-arrowthickstop-1-e { background-position: -208px -48px; }
+.ui-icon-arrowthickstop-1-s { background-position: -224px -48px; }
+.ui-icon-arrowthickstop-1-w { background-position: -240px -48px; }
+.ui-icon-arrowreturnthick-1-w { background-position: 0 -64px; }
+.ui-icon-arrowreturnthick-1-n { background-position: -16px -64px; }
+.ui-icon-arrowreturnthick-1-e { background-position: -32px -64px; }
+.ui-icon-arrowreturnthick-1-s { background-position: -48px -64px; }
+.ui-icon-arrowreturn-1-w { background-position: -64px -64px; }
+.ui-icon-arrowreturn-1-n { background-position: -80px -64px; }
+.ui-icon-arrowreturn-1-e { background-position: -96px -64px; }
+.ui-icon-arrowreturn-1-s { background-position: -112px -64px; }
+.ui-icon-arrowrefresh-1-w { background-position: -128px -64px; }
+.ui-icon-arrowrefresh-1-n { background-position: -144px -64px; }
+.ui-icon-arrowrefresh-1-e { background-position: -160px -64px; }
+.ui-icon-arrowrefresh-1-s { background-position: -176px -64px; }
+.ui-icon-arrow-4 { background-position: 0 -80px; }
+.ui-icon-arrow-4-diag { background-position: -16px -80px; }
+.ui-icon-extlink { background-position: -32px -80px; }
+.ui-icon-newwin { background-position: -48px -80px; }
+.ui-icon-refresh { background-position: -64px -80px; }
+.ui-icon-shuffle { background-position: -80px -80px; }
+.ui-icon-transfer-e-w { background-position: -96px -80px; }
+.ui-icon-transferthick-e-w { background-position: -112px -80px; }
+.ui-icon-folder-collapsed { background-position: 0 -96px; }
+.ui-icon-folder-open { background-position: -16px -96px; }
+.ui-icon-document { background-position: -32px -96px; }
+.ui-icon-document-b { background-position: -48px -96px; }
+.ui-icon-note { background-position: -64px -96px; }
+.ui-icon-mail-closed { background-position: -80px -96px; }
+.ui-icon-mail-open { background-position: -96px -96px; }
+.ui-icon-suitcase { background-position: -112px -96px; }
+.ui-icon-comment { background-position: -128px -96px; }
+.ui-icon-person { background-position: -144px -96px; }
+.ui-icon-print { background-position: -160px -96px; }
+.ui-icon-trash { background-position: -176px -96px; }
+.ui-icon-locked { background-position: -192px -96px; }
+.ui-icon-unlocked { background-position: -208px -96px; }
+.ui-icon-bookmark { background-position: -224px -96px; }
+.ui-icon-tag { background-position: -240px -96px; }
+.ui-icon-home { background-position: 0 -112px; }
+.ui-icon-flag { background-position: -16px -112px; }
+.ui-icon-calendar { background-position: -32px -112px; }
+.ui-icon-cart { background-position: -48px -112px; }
+.ui-icon-pencil { background-position: -64px -112px; }
+.ui-icon-clock { background-position: -80px -112px; }
+.ui-icon-disk { background-position: -96px -112px; }
+.ui-icon-calculator { background-position: -112px -112px; }
+.ui-icon-zoomin { background-position: -128px -112px; }
+.ui-icon-zoomout { background-position: -144px -112px; }
+.ui-icon-search { background-position: -160px -112px; }
+.ui-icon-wrench { background-position: -176px -112px; }
+.ui-icon-gear { background-position: -192px -112px; }
+.ui-icon-heart { background-position: -208px -112px; }
+.ui-icon-star { background-position: -224px -112px; }
+.ui-icon-link { background-position: -240px -112px; }
+.ui-icon-cancel { background-position: 0 -128px; }
+.ui-icon-plus { background-position: -16px -128px; }
+.ui-icon-plusthick { background-position: -32px -128px; }
+.ui-icon-minus { background-position: -48px -128px; }
+.ui-icon-minusthick { background-position: -64px -128px; }
+.ui-icon-close { background-position: -80px -128px; }
+.ui-icon-closethick { background-position: -96px -128px; }
+.ui-icon-key { background-position: -112px -128px; }
+.ui-icon-lightbulb { background-position: -128px -128px; }
+.ui-icon-scissors { background-position: -144px -128px; }
+.ui-icon-clipboard { background-position: -160px -128px; }
+.ui-icon-copy { background-position: -176px -128px; }
+.ui-icon-contact { background-position: -192px -128px; }
+.ui-icon-image { background-position: -208px -128px; }
+.ui-icon-video { background-position: -224px -128px; }
+.ui-icon-script { background-position: -240px -128px; }
+.ui-icon-alert { background-position: 0 -144px; }
+.ui-icon-info { background-position: -16px -144px; }
+.ui-icon-notice { background-position: -32px -144px; }
+.ui-icon-help { background-position: -48px -144px; }
+.ui-icon-check { background-position: -64px -144px; }
+.ui-icon-bullet { background-position: -80px -144px; }
+.ui-icon-radio-off { background-position: -96px -144px; }
+.ui-icon-radio-on { background-position: -112px -144px; }
+.ui-icon-pin-w { background-position: -128px -144px; }
+.ui-icon-pin-s { background-position: -144px -144px; }
+.ui-icon-play { background-position: 0 -160px; }
+.ui-icon-pause { background-position: -16px -160px; }
+.ui-icon-seek-next { background-position: -32px -160px; }
+.ui-icon-seek-prev { background-position: -48px -160px; }
+.ui-icon-seek-end { background-position: -64px -160px; }
+.ui-icon-seek-start { background-position: -80px -160px; }
+/* ui-icon-seek-first is deprecated, use ui-icon-seek-start instead */
+.ui-icon-seek-first { background-position: -80px -160px; }
+.ui-icon-stop { background-position: -96px -160px; }
+.ui-icon-eject { background-position: -112px -160px; }
+.ui-icon-volume-off { background-position: -128px -160px; }
+.ui-icon-volume-on { background-position: -144px -160px; }
+.ui-icon-power { background-position: 0 -176px; }
+.ui-icon-signal-diag { background-position: -16px -176px; }
+.ui-icon-signal { background-position: -32px -176px; }
+.ui-icon-battery-0 { background-position: -48px -176px; }
+.ui-icon-battery-1 { background-position: -64px -176px; }
+.ui-icon-battery-2 { background-position: -80px -176px; }
+.ui-icon-battery-3 { background-position: -96px -176px; }
+.ui-icon-circle-plus { background-position: 0 -192px; }
+.ui-icon-circle-minus { background-position: -16px -192px; }
+.ui-icon-circle-close { background-position: -32px -192px; }
+.ui-icon-circle-triangle-e { background-position: -48px -192px; }
+.ui-icon-circle-triangle-s { background-position: -64px -192px; }
+.ui-icon-circle-triangle-w { background-position: -80px -192px; }
+.ui-icon-circle-triangle-n { background-position: -96px -192px; }
+.ui-icon-circle-arrow-e { background-position: -112px -192px; }
+.ui-icon-circle-arrow-s { background-position: -128px -192px; }
+.ui-icon-circle-arrow-w { background-position: -144px -192px; }
+.ui-icon-circle-arrow-n { background-position: -160px -192px; }
+.ui-icon-circle-zoomin { background-position: -176px -192px; }
+.ui-icon-circle-zoomout { background-position: -192px -192px; }
+.ui-icon-circle-check { background-position: -208px -192px; }
+.ui-icon-circlesmall-plus { background-position: 0 -208px; }
+.ui-icon-circlesmall-minus { background-position: -16px -208px; }
+.ui-icon-circlesmall-close { background-position: -32px -208px; }
+.ui-icon-squaresmall-plus { background-position: -48px -208px; }
+.ui-icon-squaresmall-minus { background-position: -64px -208px; }
+.ui-icon-squaresmall-close { background-position: -80px -208px; }
+.ui-icon-grip-dotted-vertical { background-position: 0 -224px; }
+.ui-icon-grip-dotted-horizontal { background-position: -16px -224px; }
+.ui-icon-grip-solid-vertical { background-position: -32px -224px; }
+.ui-icon-grip-solid-horizontal { background-position: -48px -224px; }
+.ui-icon-gripsmall-diagonal-se { background-position: -64px -224px; }
+.ui-icon-grip-diagonal-se { background-position: -80px -224px; }
+
+
+/* Misc visuals
+----------------------------------*/
+
+/* Corner radius */
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl { -moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px; -khtml-border-top-left-radius: 4px; border-top-left-radius: 4px; }
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr { -moz-border-radius-topright: 4px; -webkit-border-top-right-radius: 4px; -khtml-border-top-right-radius: 4px; border-top-right-radius: 4px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl { -moz-border-radius-bottomleft: 4px; -webkit-border-bottom-left-radius: 4px; -khtml-border-bottom-left-radius: 4px; border-bottom-left-radius: 4px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br { -moz-border-radius-bottomright: 4px; -webkit-border-bottom-right-radius: 4px; -khtml-border-bottom-right-radius: 4px; border-bottom-right-radius: 4px; }
+
+/* Overlays */
+.ui-widget-overlay { background: #aaaaaa url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABkCAYAAAD0ZHJ6AAAAe0lEQVRoge3OMQHAIBAAMcC/kjdZJHTI0A4XBdkz86wfO18H3hRUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUF8O8A8WdY6opAAAAAElFTkSuQmCC) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); }
+.ui-widget-shadow { margin: -8px 0 0 -8px; padding: 8px; background: #aaaaaa url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABkCAYAAAD0ZHJ6AAAAe0lEQVRoge3OMQHAIBAAMcC/kjdZJHTI0A4XBdkz86wfO18H3hRUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUBVVBVVAVVAVVQVVQFVQFVUFVUBVUF8O8A8WdY6opAAAAAElFTkSuQmCC) 50% 50% repeat-x; opacity: .30;filter:Alpha(Opacity=30); -moz-border-radius: 8px; -khtml-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; }/*
+ * jQuery UI Resizable 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Resizable#theming
+ */
+.ui-resizable { position: relative;}
+.ui-resizable-handle { position: absolute;font-size: 0.1px;z-index: 99999; display: block; }
+.ui-resizable-disabled .ui-resizable-handle, .ui-resizable-autohide .ui-resizable-handle { display: none; }
+.ui-resizable-n { cursor: n-resize; height: 7px; width: 100%; top: -5px; left: 0; }
+.ui-resizable-s { cursor: s-resize; height: 7px; width: 100%; bottom: -5px; left: 0; }
+.ui-resizable-e { cursor: e-resize; width: 7px; right: -5px; top: 0; height: 100%; }
+.ui-resizable-w { cursor: w-resize; width: 7px; left: -5px; top: 0; height: 100%; }
+.ui-resizable-se { cursor: se-resize; width: 12px; height: 12px; right: 1px; bottom: 1px; }
+.ui-resizable-sw { cursor: sw-resize; width: 9px; height: 9px; left: -5px; bottom: -5px; }
+.ui-resizable-nw { cursor: nw-resize; width: 9px; height: 9px; left: -5px; top: -5px; }
+.ui-resizable-ne { cursor: ne-resize; width: 9px; height: 9px; right: -5px; top: -5px;}/*
+ * jQuery UI Selectable 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Selectable#theming
+ */
+.ui-selectable-helper { position: absolute; z-index: 100; border:1px dotted black; }
+/*
+ * jQuery UI Accordion 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Accordion#theming
+ */
+/* IE/Win - Fix animation bug - #4615 */
+.ui-accordion { width: 100%; }
+.ui-accordion .ui-accordion-header { cursor: pointer; position: relative; margin-top: 1px; zoom: 1; }
+.ui-accordion .ui-accordion-li-fix { display: inline; }
+.ui-accordion .ui-accordion-header-active { border-bottom: 0 !important; }
+.ui-accordion .ui-accordion-header a { display: block; font-size: 1em; padding: .5em .5em .5em .7em; }
+.ui-accordion-icons .ui-accordion-header a { padding-left: 2.2em; }
+.ui-accordion .ui-accordion-header .ui-icon { position: absolute; left: .5em; top: 50%; margin-top: -8px; }
+.ui-accordion .ui-accordion-content { padding: 1em 2.2em; border-top: 0; margin-top: -2px; position: relative; top: 1px; margin-bottom: 2px; overflow: auto; display: none; zoom: 1; }
+.ui-accordion .ui-accordion-content-active { display: block; }
+/*
+ * jQuery UI Autocomplete 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Autocomplete#theming
+ */
+.ui-autocomplete { position: absolute; cursor: default; }	
+
+/* workarounds */
+* html .ui-autocomplete { width:1px; } /* without this, the menu expands to 100% in IE6 */
+
+/*
+ * jQuery UI Menu 1.8.16
+ *
+ * Copyright 2010, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Menu#theming
+ */
+.ui-menu {
+	list-style:none;
+	padding: 2px;
+	margin: 0;
+	display:block;
+	float: left;
+}
+.ui-menu .ui-menu {
+	margin-top: -3px;
+}
+.ui-menu .ui-menu-item {
+	margin:0;
+	padding: 0;
+	zoom: 1;
+	float: left;
+	clear: left;
+	width: 100%;
+}
+.ui-menu .ui-menu-item a {
+	text-decoration:none;
+	display:block;
+	padding:.2em .4em;
+	line-height:1.5;
+	zoom:1;
+}
+.ui-menu .ui-menu-item a.ui-state-hover,
+.ui-menu .ui-menu-item a.ui-state-active {
+	font-weight: normal;
+	margin: -1px;
+}
+/*
+ * jQuery UI Button 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Button#theming
+ */
+.ui-button { display: inline-block; position: relative; padding: 0; margin-right: .1em; text-decoration: none !important; cursor: pointer; text-align: center; zoom: 1; overflow: visible; } /* the overflow property removes extra width in IE */
+.ui-button-icon-only { width: 2.2em; } /* to make room for the icon, a width needs to be set here */
+button.ui-button-icon-only { width: 2.4em; } /* button elements seem to need a little more width */
+.ui-button-icons-only { width: 3.4em; } 
+button.ui-button-icons-only { width: 3.7em; } 
+
+/*button text element */
+.ui-button .ui-button-text { display: block; line-height: 1.4;  }
+.ui-button-text-only .ui-button-text { padding: .4em 1em; }
+.ui-button-icon-only .ui-button-text, .ui-button-icons-only .ui-button-text { padding: .4em; text-indent: -9999999px; }
+.ui-button-text-icon-primary .ui-button-text, .ui-button-text-icons .ui-button-text { padding: .4em 1em .4em 2.1em; }
+.ui-button-text-icon-secondary .ui-button-text, .ui-button-text-icons .ui-button-text { padding: .4em 2.1em .4em 1em; }
+.ui-button-text-icons .ui-button-text { padding-left: 2.1em; padding-right: 2.1em; }
+/* no icon support for input elements, provide padding by default */
+input.ui-button { padding: .4em 1em; }
+
+/*button icon element(s) */
+.ui-button-icon-only .ui-icon, .ui-button-text-icon-primary .ui-icon, .ui-button-text-icon-secondary .ui-icon, .ui-button-text-icons .ui-icon, .ui-button-icons-only .ui-icon { position: absolute; top: 50%; margin-top: -8px; }
+.ui-button-icon-only .ui-icon { left: 50%; margin-left: -8px; }
+.ui-button-text-icon-primary .ui-button-icon-primary, .ui-button-text-icons .ui-button-icon-primary, .ui-button-icons-only .ui-button-icon-primary { left: .5em; }
+.ui-button-text-icon-secondary .ui-button-icon-secondary, .ui-button-text-icons .ui-button-icon-secondary, .ui-button-icons-only .ui-button-icon-secondary { right: .5em; }
+.ui-button-text-icons .ui-button-icon-secondary, .ui-button-icons-only .ui-button-icon-secondary { right: .5em; }
+
+/*button sets*/
+.ui-buttonset { margin-right: 7px; }
+.ui-buttonset .ui-button { margin-left: 0; margin-right: -.3em; }
+
+/* workarounds */
+button.ui-button::-moz-focus-inner { border: 0; padding: 0; } /* reset extra padding in Firefox */
+/*
+ * jQuery UI Dialog 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Dialog#theming
+ */
+.ui-dialog { position: absolute; padding: .2em; width: 300px; overflow: hidden; }
+.ui-dialog .ui-dialog-titlebar { padding: .4em 1em; position: relative;  }
+.ui-dialog .ui-dialog-title { float: left; margin: .1em 16px .1em 0; } 
+.ui-dialog .ui-dialog-titlebar-close { position: absolute; right: .3em; top: 50%; width: 19px; margin: -10px 0 0 0; padding: 1px; height: 18px; }
+.ui-dialog .ui-dialog-titlebar-close span { display: block; margin: 1px; }
+.ui-dialog .ui-dialog-titlebar-close:hover, .ui-dialog .ui-dialog-titlebar-close:focus { padding: 0; }
+.ui-dialog .ui-dialog-content { position: relative; border: 0; padding: .5em 1em; background: none; overflow: auto; zoom: 1; }
+.ui-dialog .ui-dialog-buttonpane { text-align: left; border-width: 1px 0 0 0; background-image: none; margin: .5em 0 0 0; padding: .3em 1em .5em .4em; }
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset { float: right; }
+.ui-dialog .ui-dialog-buttonpane button { margin: .5em .4em .5em 0; cursor: pointer; }
+.ui-dialog .ui-resizable-se { width: 14px; height: 14px; right: 3px; bottom: 3px; }
+.ui-draggable .ui-dialog-titlebar { cursor: move; }
+/*
+ * jQuery UI Slider 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Slider#theming
+ */
+.ui-slider { position: relative; text-align: left; }
+.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 1.2em; height: 1.2em; cursor: default; }
+.ui-slider .ui-slider-range { position: absolute; z-index: 1; font-size: .7em; display: block; border: 0; background-position: 0 0; }
+
+.ui-slider-horizontal { height: .8em; }
+.ui-slider-horizontal .ui-slider-handle { top: -.3em; margin-left: -.6em; }
+.ui-slider-horizontal .ui-slider-range { top: 0; height: 100%; }
+.ui-slider-horizontal .ui-slider-range-min { left: 0; }
+.ui-slider-horizontal .ui-slider-range-max { right: 0; }
+
+.ui-slider-vertical { width: .8em; height: 100px; }
+.ui-slider-vertical .ui-slider-handle { left: -.3em; margin-left: 0; margin-bottom: -.6em; }
+.ui-slider-vertical .ui-slider-range { left: 0; width: 100%; }
+.ui-slider-vertical .ui-slider-range-min { bottom: 0; }
+.ui-slider-vertical .ui-slider-range-max { top: 0; }/*
+ * jQuery UI Tabs 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Tabs#theming
+ */
+.ui-tabs { position: relative; padding: .2em; zoom: 1; } /* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+.ui-tabs .ui-tabs-nav { margin: 0; padding: .2em .2em 0; }
+.ui-tabs .ui-tabs-nav li { list-style: none; float: left; position: relative; top: 1px; margin: 0 .2em 1px 0; border-bottom: 0 !important; padding: 0; white-space: nowrap; }
+.ui-tabs .ui-tabs-nav li a { float: left; padding: .5em 1em; text-decoration: none; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected { margin-bottom: 0; padding-bottom: 1px; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a { cursor: text; }
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer; } /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+.ui-tabs .ui-tabs-panel { display: block; border-width: 0; padding: 1em 1.4em; background: none; }
+.ui-tabs .ui-tabs-hide { display: none !important; }
+/*
+ * jQuery UI Datepicker 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Datepicker#theming
+ */
+.ui-datepicker { width: 17em; padding: .2em .2em 0; display: none; }
+.ui-datepicker .ui-datepicker-header { position:relative; padding:.2em 0; }
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next { position:absolute; top: 2px; width: 1.8em; height: 1.8em; }
+.ui-datepicker .ui-datepicker-prev-hover, .ui-datepicker .ui-datepicker-next-hover { top: 1px; }
+.ui-datepicker .ui-datepicker-prev { left:2px; }
+.ui-datepicker .ui-datepicker-next { right:2px; }
+.ui-datepicker .ui-datepicker-prev-hover { left:1px; }
+.ui-datepicker .ui-datepicker-next-hover { right:1px; }
+.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span { display: block; position: absolute; left: 50%; margin-left: -8px; top: 50%; margin-top: -8px;  }
+.ui-datepicker .ui-datepicker-title { margin: 0 2.3em; line-height: 1.8em; text-align: center; }
+.ui-datepicker .ui-datepicker-title select { font-size:1em; margin:1px 0; }
+.ui-datepicker select.ui-datepicker-month-year {width: 100%;}
+.ui-datepicker select.ui-datepicker-month, 
+.ui-datepicker select.ui-datepicker-year { width: 49%;}
+.ui-datepicker table {width: 100%; font-size: .9em; border-collapse: collapse; margin:0 0 .4em; }
+.ui-datepicker th { padding: .7em .3em; text-align: center; font-weight: bold; border: 0;  }
+.ui-datepicker td { border: 0; padding: 1px; }
+.ui-datepicker td span, .ui-datepicker td a { display: block; padding: .2em; text-align: right; text-decoration: none; }
+.ui-datepicker .ui-datepicker-buttonpane { background-image: none; margin: .7em 0 0 0; padding:0 .2em; border-left: 0; border-right: 0; border-bottom: 0; }
+.ui-datepicker .ui-datepicker-buttonpane button { float: right; margin: .5em .2em .4em; cursor: pointer; padding: .2em .6em .3em .6em; width:auto; overflow:visible; }
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current { float:left; }
+
+/* with multiple calendars */
+.ui-datepicker.ui-datepicker-multi { width:auto; }
+.ui-datepicker-multi .ui-datepicker-group { float:left; }
+.ui-datepicker-multi .ui-datepicker-group table { width:95%; margin:0 auto .4em; }
+.ui-datepicker-multi-2 .ui-datepicker-group { width:50%; }
+.ui-datepicker-multi-3 .ui-datepicker-group { width:33.3%; }
+.ui-datepicker-multi-4 .ui-datepicker-group { width:25%; }
+.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header { border-left-width:0; }
+.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header { border-left-width:0; }
+.ui-datepicker-multi .ui-datepicker-buttonpane { clear:left; }
+.ui-datepicker-row-break { clear:both; width:100%; font-size:0em; }
+
+/* RTL support */
+.ui-datepicker-rtl { direction: rtl; }
+.ui-datepicker-rtl .ui-datepicker-prev { right: 2px; left: auto; }
+.ui-datepicker-rtl .ui-datepicker-next { left: 2px; right: auto; }
+.ui-datepicker-rtl .ui-datepicker-prev:hover { right: 1px; left: auto; }
+.ui-datepicker-rtl .ui-datepicker-next:hover { left: 1px; right: auto; }
+.ui-datepicker-rtl .ui-datepicker-buttonpane { clear:right; }
+.ui-datepicker-rtl .ui-datepicker-buttonpane button { float: left; }
+.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current { float:right; }
+.ui-datepicker-rtl .ui-datepicker-group { float:right; }
+.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header { border-right-width:0; border-left-width:1px; }
+.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header { border-right-width:0; border-left-width:1px; }
+
+/* IE6 IFRAME FIX (taken from datepicker 1.5.3 */
+.ui-datepicker-cover {
+    display: none; /*sorry for IE5*/
+    display/**/: block; /*sorry for IE5*/
+    position: absolute; /*must have*/
+    z-index: -1; /*must have*/
+    filter: mask(); /*must have*/
+    top: -4px; /*must have*/
+    left: -4px; /*must have*/
+    width: 200px; /*must have*/
+    height: 200px; /*must have*/
+}/*
+ * jQuery UI Progressbar 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Progressbar#theming
+ */
+.ui-progressbar { height:2em; text-align: left; }
+.ui-progressbar .ui-progressbar-value {margin: -1px; height:100%; }div.dokuwiki table.columns-plugin td {
+    vertical-align: top;
+    padding: 0 0.3cm 0 0.3cm;
+}
+
+div.dokuwiki table.columns-plugin td.first {
+    padding-left: 0;
+}
+
+div.dokuwiki table.columns-plugin td.last {
+    padding-right: 0;
+}
+
+div.dokuwiki table.columns-plugin td.left {
+    text-align: left;
+}
+
+div.dokuwiki table.columns-plugin td.center {
+    text-align: center;
+}
+
+div.dokuwiki table.columns-plugin td.right {
+    text-align: right;
+}
+.dokuwiki div.plugin_translation { display: none }
+div.dokuwiki #task__newtask_form {
+  display:none;
+}/** @file     progrecss/style.css
+ *  @brief    Default stylesheets for progrecss plugin
+ *  @author   Luis Machuca Bezzaza <luis [dot] machuca [at] gulix [dot] cl>
+ *  @version  1.8
+ *  @license  GPL v2
+ */
+ 
+/** This file provides three (3) default styles for the "progrecss"
+ *  (CSS-based progress bars) plugin for Dokuwiki.
+ */
+ 
+
+.progrecss_default {
+	display: inline-block; 
+}
+
+.progrecss_default .border {
+    display: inline-block;
+    border: 2px dotted gray;
+}
+
+
+.progrecss_default .border .bar {
+    display: inline-block;
+    background-color: #dddddd;
+    padding: 0 1em;
+    color: #009ddc !important;
+}
+
+.progrecss_default .caption {
+	display: inline-block;
+	font-family: Helvetica, Arial;
+	font-size: 75%;
+	text-align: center;
+	color: gray;
+	}
+
+
+.progrecss_gauge {
+    display: inline-block;
+    }
+
+.progrecss_gauge .border {
+    display: inline-block;
+    height: 80%;
+    font-size: 80%;
+    padding: 0;
+    border: 1px solid #638c9c;
+    box-shadow: 2px 2px 2px #666 !important;
+    }
+
+.progrecss_gauge .border .bar {
+    display: inline-block;
+    padding: 0;
+    padding-right: 5px;
+    border: 1px solid #666 !important;
+    border-right: 4px solid #666 !important;
+    border-top-right-radius: 6px / 0.5em !important;
+    border-bottom-right-radius: 6px / 0.5em !important;
+    color: gray;
+    font-size: 75%;
+}
+
+
+.progrecss_inline {
+  position: relative;
+  display: inline-block;
+  line-height: 1.4em;
+  }
+
+.progrecss_inline .border {
+  display: inline-block;
+  height: 0.3em;
+  margin-bottom: 0;
+  background-color: #bf1e2e;
+  border: 1px solid #bf1e2e;
+  border-radius: 2px;
+  }
+ 
+.progrecss_inline .border .bar {
+  display: inline-block;
+  height: 0.1em;
+  background-color: #009ddc;
+  text-align: center;
+  vertical-align: top;
+  font-size: 50%;
+  color: gray;
+  }
+
+.progrecss_inline .caption {
+  display: block;
+  height: 1em;
+  color: gray;
+  font-size: 70%;
+  vertical-align: baseline;
+  }
+
+
+/**
+ * style.css for Plugin hidden
+ * 
+ * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
+ * @author     Guillaume Turri <guillaume.turri@gmail.com>
+ *
+ */
+
+.hiddenHead{
+  background-color:#dee7ec;
+}
+
+.hiddenBody{
+  border-top:1px solid #8cacbb;
+  padding:1px;
+}
+
+.hiddenGlobal{
+  border:1px solid #8cacbb;
+}
+
+.hiddenOnHidden{
+  display:none;
+}
+
+.hiddenOnVisible{
+  display:none;
+}
+
+.hiddenElements{
+  display:none;
+}
+
+div.hiddenGlobal div.hiddenHead p{
+  margin:0;
+}
+
+.hiddenNoPrint {
+    display:none;
+}
+div.dokuwiki #discussion__comment_form,
+div.dokuwiki #discussion__newthread_form,
+div.dokuwiki div.comment_buttons,
+div.dokuwiki div.comment_hidden,
+div.dokuwiki #toggle_button,
+#picker0, #picker1, #picker2, #picker3 {
+  display:none;
+}
+/********************************************************************
+Print Styles for the Wrap Plugin (additional to all.css)
+********************************************************************/
+
+/* boxes and notes with icons
+********************************************************************/
+
+.dokuwiki div.wrap_box,
+.dokuwiki div.wrap_danger, .dokuwiki div.wrap_warning, .dokuwiki div.wrap_caution, .dokuwiki div.wrap_notice, .dokuwiki div.wrap_safety,
+.dokuwiki div.wrap_info, .dokuwiki div.wrap_important, .dokuwiki div.wrap_alert, .dokuwiki div.wrap_tip, .dokuwiki div.wrap_help, .dokuwiki div.wrap_todo, .dokuwiki div.wrap_download {
+    border: 2px solid #999;
+    padding: 1em 1em .5em;
+    margin-bottom: 1.5em;
+}
+.dokuwiki span.wrap_box,
+.dokuwiki span.wrap_danger, .dokuwiki span.wrap_warning, .dokuwiki span.wrap_caution, .dokuwiki span.wrap_notice, .dokuwiki span.wrap_safety,
+.dokuwiki span.wrap_info, .dokuwiki span.wrap_important, .dokuwiki span.wrap_alert, .dokuwiki span.wrap_tip, .dokuwiki span.wrap_help, .dokuwiki span.wrap_todo, .dokuwiki span.wrap_download {
+    border: 1px solid #999;
+    padding: 0 .3em;
+}
+
+
+/* mark
+********************************************************************/
+
+.dokuwiki .wrap_hi {
+    border: 1px solid #999;
+}
+
+
+/* miscellaneous
+********************************************************************/
+
+/*____________ spoiler ____________*/
+
+.dokuwiki .wrap_spoiler {
+    visibility: hidden;
+}
+
+/*____________ pagebreak ____________*/
+
+.dokuwiki .wrap_pagebreak {
+    page-break-after: always;
+}
+
+/*____________ avoid page break ____________*/
+/* not yet supported by most browsers */
+
+.dokuwiki .wrap_nopagebreak {
+    page-break-inside: avoid;
+}
+
+/*____________ no print ____________*/
+
+.dokuwiki .wrap_noprint {
+    display: none;
+}
+/* plugin: yalist */
+
+div.dokuwiki ul,
+div.dokuwiki ol {
+    //line-height: 1em;
+    padding: 0;
+}
+
+div.dokuwiki dl {
+    //line-height: 1em;
+    margin-bottom: 0.5em;
+    padding: 0;
+}
+
+div.dokuwiki dt {
+    clear: left;
+}
+
+div.dokuwiki .dt {
+    margin-right: 1em;
+    font-weight: bold;
+    max-width: 30%;
+    float: left;
+}
+
+div.dokuwiki .dt,
+div.dokuwiki .dd,
+div.dokuwiki .li {
+    margin-bottom: 0.33em;
+}
+
+div.dokuwiki dd {
+    margin-left: 3em;
+}
+
+div.dokuwiki dl:after,
+div.dokuwiki dl dl:before,
+div.dokuwiki dl ol:before,
+div.dokuwiki dl ul:before {
+    content: '.';
+    display: block;
+    clear: left;
+    width: 0;
+    height: 0;
+    visibility: hidden;
+}
+
+/* end plugin: yalist */
+body {
+  font: 10pt "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-serif;
+  background-color: White;
+  color: Black;
+}
+
+table {
+  font-size: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+tr,td,th { padding: 0; margin: 0; }
+
+img { border: 0; }
+
+a {
+  color: #000000;
+  text-decoration: none;
+  background: none !important;
+}
+
+a.interwiki {
+  padding-left: 0px !important;
+}
+
+
+div.meta {
+  clear: both;
+  margin-top: 1em;
+  font-size: 70%;
+  text-align: right;
+}
+
+div.breadcrumbs {
+  display: none;
+}
+
+
+/* --------------------- Text formating -------------------------------- */
+
+/* external link */
+a.urlextern:after {
+   content: " [" attr(href) "]";
+   font-size: 90%;
+}
+
+/* interwiki link */
+a.interwiki:after {
+   content: " [" attr(href) "]";
+   font-size: 90%;
+}
+
+/* email link */
+a.mail:after {
+   content: " [" attr(href) "]";
+   font-size: 90%;
+}
+
+/* existing wikilink */
+a.wikilink1    { text-decoration: underline; }
+
+/* the document */
+div.page {
+  text-align: justify;
+}
+
+/* general headline setup */
+h1, h2, h3, h4, h5 {
+    color: Black;
+    background-color: transparent;
+    font-family: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-serif;
+    font-size: 100%;
+    font-weight: normal;
+    margin-left:    0;
+    margin-right:   0;
+    margin-top:     0;
+    margin-bottom:  1em;
+    padding-left:   0;
+    padding-right:  0;
+    padding-top:    0.5em;
+    padding-bottom: 0;
+    border-bottom: 1px solid #000000;
+    clear: left;
+}
+
+/* special headlines */
+h1 { font-size: 160%; font-weight: bold; }
+h2 { font-size: 150%; }
+h3 { font-size: 140%; border-bottom: none; }
+h4 { font-size: 120%; border-bottom: none; }
+h5 { font-size: 100%; border-bottom: none; }
+
+/* embedded images */
+img.media {
+  margin: 3px;
+}
+
+/* the styles for media images are already in
+   lib/styles/all.css, these are additional styles */
+img.medialeft {
+  margin: 0 1.5em 0 0;
+}
+img.mediaright {
+  margin: 0 0 0 1.5em;
+}
+img.mediacenter {
+}
+
+/* unordered lists */
+ul {
+    line-height: 1.5em;
+    list-style-type: square;
+    margin: 0 0 1em 3.5em;
+    padding: 0;
+}
+
+/* ordered lists */
+ol {
+    line-height: 1.5em;
+    margin: 0 0 1em 3.5em;
+    padding: 0;
+    font-weight: normal;
+}
+
+div.dokuwiki li ul {
+  margin-bottom: 0;
+}
+div.dokuwiki li ol {
+  margin-bottom: 0;
+}
+
+div.dokuwiki ol { list-style-type: decimal; }
+div.dokuwiki ol ol { list-style-type: upper-roman; }
+div.dokuwiki ol ol ol { list-style-type: lower-alpha; }
+div.dokuwiki ol ol ol ol { list-style-type: lower-greek; }
+
+/* the list items overriding the ol definition */
+span.li {
+    font-weight: normal;
+}
+
+pre {
+  font-family: monospace;
+}
+
+/* code blocks by indention */
+pre.pre {
+  font-size: 8pt;
+  padding: 0.5em;
+  border: 1px dashed #000000;
+  color: Black;
+  overflow: visible;
+}
+
+/* code blocks by code tag */
+pre.code {
+  font-size: 8pt;
+  padding: 0.5em;
+  border: 1px dashed #000000;
+  color: Black;
+  overflow: visible;
+}
+
+/* inline code words */
+code {
+  font-size: 120%;
+}
+
+/* code blocks by file tag */
+pre.file {
+  font-size: 8pt;
+  padding: 0.5em;
+  border: 1px dotted #000000;
+  color: Black;
+  overflow: visible;
+}
+
+/* footnotes */
+div.footnotes {
+  clear: both;
+  border-top: 1px solid #000000;
+  padding-left: 1em;
+  margin-top: 1em;
+}
+
+div.fn {
+  font-size: 90%;
+}
+
+a.fn_top {
+  vertical-align: super;
+  font-size: 80%;
+}
+
+a.fn_bot {
+  vertical-align: super;
+  font-size: 80%;
+  font-weight: bold;
+}
+
+acronym {
+  border: 0;
+}
+
+/* ---------- inline tables ------------------- */
+
+table.inline {
+  font-size: 80%;
+  background-color: #ffffff;
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+
+table.inline th {
+  padding: 3px;
+  border: 1px solid #000000;
+  border-bottom: 2px solid #000000;
+}
+
+table.inline td {
+  padding: 3px;
+  border: 1px solid #000000;
+}
+
+.toc, .footerinc, .header, .bar, .user { display: none; }
+
+/* pirati.cz - spec */
+#pagebar {
+     display:none;
+}
+
+#head {
+  display: none !important;
+}
+
