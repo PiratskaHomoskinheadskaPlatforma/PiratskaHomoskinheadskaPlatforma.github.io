@@ -12,36 +12,36 @@
     <link href="style.css" rel="stylesheet" type="text/css" media="screen,projection" />
     <link href="favicon.ico" rel="icon" />
 
-  <script type="text/javascript" src="js/jquery.min.js"></script>
-  <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
 
     <script type="text/javascript">
-    var hashTagActive = "";
-  $(document).ready(function() {
-  	$("a").each(function(index) {
-  		if ($(this).attr("href").substring(0,1) == "#") {
-  	    	$(this).click(function (e) {
-  			    var $href = $(this).attr("href");
-  			    $("html, body").stop().animate({
-  					scrollTop: $($href).offset().top
-  					}, 750,"easeInOutExpo");
-  			    e.preventDefault();
-  			});
-  		}
-  	});
-  });
-</script>
+      var hashTagActive = "";
+      $(document).ready(function() {
+        $("a").each(function(index) {
+          if ($(this).attr("href").substring(0,1) == "#") {
+              $(this).click(function (e) {
+                var $href = $(this).attr("href");
+                $("html, body").stop().animate({
+                scrollTop: $($href).offset().top
+                }, 750,"easeInOutExpo");
+                e.preventDefault();
+            });
+          }
+        });
+      });
+    </script>
 
-<script type="text/javascript">
-$(window).scroll(function(){ 
-    if ($(this).scrollTop() > 50) {
-        $('#scroll').fadeIn(); 
-        $('#scroll').css("display", "block");
-    } else { 
-        $('#scroll').fadeOut(); 
-        $('#scroll').css("display", "none");
-    } 
-});
+    <script type="text/javascript">
+      $(window).scroll(function(){ 
+        if ($(this).scrollTop() > 50) {
+            $('#scroll').fadeIn(); 
+            $('#scroll').css("display", "block");
+        } else { 
+            $('#scroll').fadeOut(); 
+            $('#scroll').css("display", "none");
+        } 
+      });
     </script>
   </head>
 
@@ -54,154 +54,26 @@ $(window).scroll(function(){
 
     <div id="topLinks">
       <div class="content">
-        <a class="scroll" href="#news">Blesky z nebe</a>
-        <span class="ligthColor">/</span>
-        <a class="scroll" href="#about">O nás</a>
-        <span class="ligthColor">/</span>
-        <a class="scroll" href="#joinUs">Připoj se</a>
+        <a class="scroll" href="index.html">Pirátská homoskindheadská platforma</a>
         <span class="ligthColor">/</span>
         <a href="closed.htm">Otevřenost</a>
         <span class="ligthColor">/</span>
-        <a href="https://wiki.pirati.cz/homo/cena">Cena</a>
+        <a href="https://piratskahomoskinheadskaplatforma.cz/VeselaKampan">Veselá kampaň</a>
         <a href="http://pirati.cz/" class="floatRight">Pryč z tohoto chlívu</a>
       </div>
     </div>
 
-    <div id="graphics">
-      <div class="content">
-        <img src="images/homo_small.png" alt="Logo Pirátské homoskinheadské platformy" class="logo" />
-        <div id="peopleImage"></div>
-        <blockquote>
-          <div class="quotes"></div>
-          Pirátská homoskinheadská platforma je neoficiální neformální interní organizace Pirátské strany pro ty, kteří mají svobodu názoru za svatou. 
-        </blockquote>
-      </div>
+    <!-- Wrapper content START -->
+    <div id="wrapper">
+
     </div>
-
-    <div id="middleLinks">
-      <div class="content">
-        <a href="images/krtkomo.jpg"><img src="images/krtkomo_mid.jpg" alt="krtko" /></a>
-        <div class="rightCol">
-          <a href="https://wiki.pirati.cz/homo/podkoni">
-            <div class="button">
-              <span class="smallFont">čestná funkce</span><br />
-              Podkoní
-              <img src="images/podkoni.png" />
-            </div>
-          </a>
-
-          <a href="https://wiki.pirati.cz/homo/podpsi">
-            <div class="button">
-              <span class="smallFont">čestná funkce</span><br />
-              PodΨ
-              <img src="images/psi.png" />
-            </div>
-          </a>
-
-          <a href="https://wiki.pirati.cz/varna">
-            <div class="button">
-            <span class="smallFont">Mobilní polní</span>
-            ВАРНА
-            <img src="images/cooker.png" />
-            </div>
-          </a>
-
-          <a href="#regions">
-            <div class="button">
-              <span class="smallFont">Městské a regionální</span>
-              organizace
-              <img src="images/city.png" />
-            </div>
-          </a>
-        </div>
-      </div>
-    </div>
-
-    <div id="container">
-      <div class="content">
-        <div id="videos">
-          <h1>Videa</h1>
-          <div class="top3">
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/LB9lObWclFQ?autoplay=1" frameborder="0" allowfullscreen></iframe>
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/FMHRqXqeQHA" frameborder="0" allowfullscreen></iframe>
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/QMuUzjx9U9U" frameborder="0" allowfullscreen></iframe>
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/5C1yzZrjGNA" frameborder="0" allowfullscreen></iframe>
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/qoVsw7bjZhw" frameborder="0" allowfullscreen></iframe>
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/euXQbZDwV0w" frameborder="0" allowfullscreen></iframe>
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/zXvlHMXPnFY" frameborder="0" allowfullscreen></iframe>
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/L2hS_LhslTw" frameborder="0" allowfullscreen></iframe>
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/sEGeHxF0tF4" frameborder="0" allowfullscreen></iframe>  
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/FSYJ8Uf2vFQ" frameborder="0" allowfullscreen></iframe>          
-            <iframe width="265" height="160" src="https://www.youtube.com/embed/M28UUqGNLi0" frameborder="0" allowfullscreen></iframe>
-          </div>
-        </div>
-
-        <div id="news">
-          <h1>Blesky z nebe</h1>
-          <ul>
-            <li>28.3.2017 KoDo Milush se nelýbý svoboda projevu
-              <a href="https://redmine.pirati.cz/issues/5849#change-18918">1</a>,
-              <a href="images/Milus_Kotisova.png">2</a>,
-              <a href="https://redmine.pirati.cz/issues/5861">3</a>
-            </li>
-            <li>20.3.2017 jsme emigrovali na nový web</li>
-            <li>8.2.2017 byla slavnostně představena oficiální vlajka platformy</li>
-            <li>2.3.2016 platforma představila <a href="http://mediahub.cz/komunikace/900311-brnensti-pirati-vyrazili-do-ulic-v-naci-paskach-vedeni-medialniho-odboru-se-to-nelibi-jeste-aby">nový dresscode</a></li>
-            <li>záznamy chybí z důvody ztráty třídní knihy</li>
-            <li>20.7.2014 vzali na lišku kulomet.
-              <a href="https://forum.pirati.cz/podatelna-administrativniho-odboru-f227/zadost-o-odstraneni-odkazu-ze-stranky-t24824.html">1</a>, 
-              <a href="https://forum.pirati.cz/podatelna-administrativniho-odboru-f227/reseni-vandalismu-wiki-t24822.html">2</a>,
-              <a href="https://forum.pirati.cz/podatelna-technickeho-odboru-f228/zadost-o-zmenu-tlacitka-ocenit-t24832.html">3</a>,
-              <a href="https://forum.pirati.cz/podatelna-technickeho-odboru-f228/presmerovavaci-tlacitko-ocenit-ve-vlaknech-t24809.html">4</a>,
-              <a href="https://forum.pirati.cz/podatelna-technickeho-odboru-f228/re-presmerovavaci-tlacitko-ocenit-ve-vlaknech-2-t24831.html">5</a>,
-              <a href="https://forum.pirati.cz/podatelna-republikoveho-predsednictva-f352/oznameni-t24828.html">6</a>,
-              <a href="https://forum.pirati.cz/podatelna-technickeho-odboru-f228/zrizeni-subdomeny-t24829.html">7</a>
-            </li>
-            <li>10.7.2014 byly otevřeny <a href="http://wiki.pirati.cz/homo/nominace">nominace</a> na <a href="http://wiki.pirati.cz/homo/cena">cenu <s>Petra Bajgara</s>Cena 2014</a>.</li>
-            <li>25.5.2014 se platforma <a href="http://pirati.cz/_detail/homo/img_20140525_205204.jpg">sešla fyzicky na volebním štábu</a>.</li>
-            <li>29.4.2014 byla ustanovena čestná funkce <a href="http://wiki.pirati.cz/homo/podpsi">podΨ</a>.</li>
-            <li>22.4.2014 začal <a href="https://forum.pirati.cz/podatelna-technickeho-odboru-f228/odstraneni-kraviny-z-nasi-domeny-t22892.html">hon na lišku</a>.</li>
-            <li>17.4.2014 byla platforma představena na <a href="http://forum.pirati.cz">vtipu</a> Pirátské strany.</li>
-            <li>19.3.2014 byly oficiální stránky naší platformy smazány <a href="http://wiki.pirati.cz/lide/vojtech_pikal">robotem</a>.</li>
-            <li>20.2.2014 byla ustanovena čestná funkce <a href="http://wiki.pirati.cz/homo/podkoni">podkoní</a>.</li>
-            <li>18.1.2014 na zasedání CF v Pardubicích vznikla, za podpory členů německé Pirátské strany, Pirátská homoskinheadská platforma.</li>
-          </ul>
-        </div>
-
-        <div id="about">
-          <h1>O nás</h1>
-          <p>Pirátská homoskinheadská platforma byla založena na zasedání Celostátního Fóra Pirátské strany v Pardubicích dne 18. ledna 2014 za podpory členů německé Pirátské strany.</p>
-          <p>Jakožto dlouhodobý emergentní cíl platformy bývá často označována snaha o nastoleni všeobecné diktatury troletariátu.<br />
-          Vzhledem k definiční orientaci platformy na činnost budovací (narozdíl od frakcí, které z definice štěpí) lze předpokládat určité časové prolongace v jeho plnění.</p>
-          <p>
-            <h2>Oficiální logo platformy</h2>
-            <div class="textCenter"><img src="images/homo.png" alt="logo platformy" /></div>
-          </p>
-          <p>
-            <h2>Oficiální vlajka platformy</h2>
-            <div class="textCenter"><a href="images/homovlajka.png" alt="zobrazit vlajku v plném rozlišení" title="zobrazit vlajku v plném rozlišení"><img src="images/vlajka.png" alt="vlajka platformy" /></a></div>
-          </p>
-
-          <p id="regions">
-            <h2>Městské organizace platformy</h2>
-            <ul>
-              <li><a href="https://wiki.pirati.cz/homo/brno">phpBB - Pirátská homoskinheadská platforma Buzny Brno</a></li>
-              <li>phpŽŽ - Pirátská homoskinheadská platforma Židobolševici Žatec</li>
-            </ul>
-          </p>
-        </div>
-
-        <div id="joinUs">
-
-        </div>
-      </div>
-    </div>
+    <!-- Wrapper content END -->
 
     <div id="footer">
       <div class="content">
         <img src="images/homo_middle.png" alt="Logo Pirátské homoskinheadské platformy" />
         <div class="rightCol">
-          <span class="copyleft">©</span> Pirátská homoskinheadská platforma, 2017<br />
+          <span class="copyleft">©</span> 2014-2021, Pirátská homoskinheadská platforma<br />
           Sdílení je aktem lásky
         </div>
       </div>
@@ -209,10 +81,45 @@ $(window).scroll(function(){
 
     <div id="disclaimer">
       <div class="content">
-        Tento web nereprezentuje žádnou oficiální organizaci Pirátské strany. Jde pouze o umělecký projekt tvořený komunitou, který k Pirátskému hnutí neodmyslitelně patří.
+        Tento web nereprezentuje žádnou oficiální organizaci Pirátské strany. Jde pouze o umělecký projekt tvořený komunitou, která k Pirátskému hnutí neodmyslitelně patří.
       </div>
     </div>
 
     <a id="scroll" href="#headerLine"><img src="images/backtotop.png" alt="back to top" /></a>
   </body>
+
+  <!-- Wrapper script START -->
+  <script type="text/javascript">
+    var getUrlParameter = function getUrlParameter(sParam) {
+      var sPageURL = window.location.search.substring(1),
+          sURLVariables = sPageURL.split('&'),
+          sParameterName,
+          i;
+
+      for (i = 0; i < sURLVariables.length; i++) {
+          sParameterName = sURLVariables[i].split('=');
+
+          if (sParameterName[0] === sParam) {
+              return typeof sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+          }
+      }
+      return false;
+  };
+  
+  // grab GET parameter (p=xyz) from current URL
+  var selectedPage = getUrlParameter('p');
+
+  // if selected page is empty, load 'about' page
+  selectedPage = (selectedPage == "") ? "about" : selectedPage;
+
+  // reset document title
+  document.title = "Pirátská homoskinheadská platforma";
+
+  // load page
+  $('#wrapper').load("subpage/" + selectedPage + ".html", function() {
+    // change window title  
+    document.title = (selectedPage != "about") ? ($('#wrapper h1').text() + " - " + document.title) : document.title;
+  });
+  </script>
+  <!-- Wrapper script END -->
 </html>

@@ -207,13 +207,13 @@ h2 {
   line-height: 22pt;
 }
 
-#news a, #about a {
+#news a, #about a, #wrapper a {
   color: #343434;
   text-decoration: underline;
   transition: all ease-in-out 0.1s;
 }
 
-#news a:hover, #about a:hover {
+#news a:hover, #about a:hover, #wrapper a:hover {
   color: #DD137B;
   transition: all ease-in-out 0.1s;
 }
@@ -223,9 +223,23 @@ h2 {
   padding: 25px 0 25px 0;
 }
 
-#about img {
+#about img, #wrapperContent img {
   border: 1px solid #cccccc;
   padding: 10px;
+}
+
+#wrapperContent {
+  color: #343434;
+  padding-bottom: 2em;
+}
+
+#wrapperContent p, #wrapperContent h2 {
+  color: #343434;
+}
+
+#wrapperContent h1 {
+  margin: -1em 0 2em 0;
+  padding: 1em 0 0 0;
 }
 
 #footer {
@@ -276,4 +290,8 @@ div.content {
   position: fixed;
   bottom: 10px;
   right: 10px;
+}
+
+.center {
+  text-align: center;
 }
