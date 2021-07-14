@@ -1,4 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,300i,600');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,300i,600,400i');
+
+/* Browser options */
+::-moz-selection {
+  background:                 #DD137B;
+  color:                      #ffffff;
+}
+::selection {
+  background:                 #DD137B;
+  color:                      #ffffff;
+}
+
 
 html, body {
   margin: 0;
@@ -24,6 +35,12 @@ h2 {
   padding: 0;
 }
 
+hr {
+  width: 100%;
+  border: none;
+  height: 4px;
+  background: #DD137B;
+}
 #headerLine {
   background: #343434;
   width: 100%;
@@ -233,7 +250,8 @@ h2 {
 
 #wrapperContent {
   color: #343434;
-  padding-bottom: 2em;
+  padding: 0 0 2em 0;
+  position: relative;
 }
 
 #wrapperContent p, #wrapperContent h2 {
@@ -241,7 +259,7 @@ h2 {
 }
 
 #wrapperContent h1 {
-  margin: -1em 0 0.5em 0;
+  margin: 0 0 0.5em 0;
   padding: 1em 0 0 0;
 }
 
