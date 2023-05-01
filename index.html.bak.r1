@@ -49,27 +49,20 @@
   <body>
     <div id="headerLine">
       <div class="content">
-        <a href="https://web.archive.org/web/20150323111353/pirati.cz/homo"><img src="images/icon_home.png" alt="icon home" />&nbsp;www.pirati.cz/homo&nbsp;-&nbsp;pohled do prehistorie, aneb zrajeme lépe než víno!</a>
+        <a href="http://wiki.pirati.cz/homo"><img src="images/icon_home.png" alt="icon home" />&nbsp;www.pirati.cz/homo&nbsp;-&nbsp;pohled do prehistorie, aneb zrajeme lépe než víno!</a>
       </div>
     </div>
 
     <div id="topLinks">
       <div class="content">
-        <a class="scroll" href="index.html">
-          <img src="images/homo_platforma_logo.png" alt="Úvod" />
-        </a>
-        <a href="index.html?p=closed">
-          <span>Otevřenost</span>
-        </a>
-        <a href="https://piratskahomoskinheadskaplatforma.cz/VeselaKampan">
-          <span>Veselá kampaň</span>
-        </a>
-        <a href="https://piratskatelevize.cz">
-          <span>Pirátská televize</span>
-        </a>
-        <a href="http://pirati.cz/" class="floatRight">
-          <span>Vylodit se</span>
-        </a>
+        <a class="scroll" href="index.html">Úvod</a>
+        <span class="ligthColor">/</span>
+        <a href="index.html?p=closed">Otevřenost</a>
+        <span class="ligthColor">/</span>
+        <a href="https://piratskahomoskinheadskaplatforma.cz/VeselaKampan">Veselá kampaň</a>
+        <span class="ligthColor">/</span>
+        <a href="https://piratskatelevize.cz">Pirátská televize</a>
+        <a href="http://pirati.cz/" class="floatRight">Pryč z tohoto chlívu</a>
       </div>
     </div>
 
