@@ -58,7 +58,7 @@
         <a class="scroll" href="index.html">
           <img src="images/homo_platforma_logo.png" alt="Úvod" />
         </a>
-        <a href="index.html?p=about#about">
+        <a href="index.html?p=about">
           <span>O nás</span>
         </a>
         <a href="index.html?p=slemstvi">
@@ -136,6 +136,16 @@
   $('#wrapper').load("subpage/" + selectedPage + ".html", function() {
     // change window title  
     document.title = (selectedPage != "news") ? ($('#wrapper h1').text() + " - " + document.title) : document.title;
+  });
+
+  // fix anchor scrolling
+  $(document).ready(function() {
+    setTimeout(function(){
+      var hash = window.location.hash;
+      console.log(hash);
+      document.getElementById(hash.replace("#","")).scrollIntoView();
+
+    }, 1000);
   });
   </script>
   <!-- Wrapper script END -->
