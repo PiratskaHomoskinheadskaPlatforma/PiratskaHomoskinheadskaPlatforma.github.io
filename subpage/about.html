@@ -54,6 +54,12 @@
     </div>
   </div>
 
+  <div id="gallery">
+    <div class="content">
+      
+    </div>
+  </div>
+
   <div id="container">
     <div class="content">
       <div id="videos">
@@ -143,18 +149,28 @@
     var swapImagesCheck = 0;
     function swapImages(){
       var $active = $('#claim .content img');
-      if(swapImagesCheck == 0) {
-        $active.attr("src", "images/claim_1.png");
-        swapImagesCheck = 1;
-      }
-      else {
-        $active.attr("src", "images/claim_0.png");
-        swapImagesCheck = 0;
+      switch(swapImagesCheck) {
+        case 0:
+          $active.attr("src", "images/claim_1.png");
+          swapImagesCheck++;
+          break;
+        case 1:
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+          $active.attr("src", "images/svazak.png");
+          swapImagesCheck++;
+          break;
+        default:
+          $active.attr("src", "images/claim_0.png");
+          swapImagesCheck = 0;
+          break;
       }
     }
  
     $(document).ready(function(){
       // Run our swapImages() function every 5secs
-      setInterval('swapImages()', 1500);
+      setInterval('swapImages()', 2500);
     })
   </script>

@@ -215,6 +215,10 @@ hr {
   right: -35px;
 }
 
+#gallery .content {
+  text-align: center;
+}
+
 #container {
   color: #343434;
 }
