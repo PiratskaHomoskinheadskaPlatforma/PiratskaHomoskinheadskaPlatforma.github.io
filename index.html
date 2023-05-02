@@ -58,6 +58,12 @@
         <a class="scroll" href="index.html">
           <img src="images/homo_platforma_logo.png" alt="Úvod" />
         </a>
+        <a href="index.html?p=about#about">
+          <span>O nás</span>
+        </a>
+        <a href="index.html?p=slemstvi">
+          <span>Šlemství</span>
+        </a>
         <a href="index.html?p=svazactvi">
           <span>Svazáctví</span>
         </a>
@@ -120,8 +126,8 @@
   // grab GET parameter (p=xyz) from current URL
   var selectedPage = getUrlParameter('p');
 
-  // if selected page is empty, load 'about' page
-  selectedPage = (selectedPage == "") ? "about" : selectedPage;
+  // if selected page is empty, load 'news' page
+  selectedPage = (selectedPage == "") ? "news" : selectedPage;
 
   // reset document title
   document.title = "Pirátská homoskinheadská platforma";
@@ -129,7 +135,7 @@
   // load page
   $('#wrapper').load("subpage/" + selectedPage + ".html", function() {
     // change window title  
-    document.title = (selectedPage != "about") ? ($('#wrapper h1').text() + " - " + document.title) : document.title;
+    document.title = (selectedPage != "news") ? ($('#wrapper h1').text() + " - " + document.title) : document.title;
   });
   </script>
   <!-- Wrapper script END -->

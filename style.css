@@ -68,13 +68,13 @@ hr {
   text-align: center;
 }
 
-#headerLine a {
+#headerLine a, #footer a {
   color: #fff;
   text-decoration: none;
   transition: all ease-in-out 0.1s;
 }
 
-#headerLine a:hover {
+#headerLine a:hover, #footer a:hover {
   color: #DD137B;
   transition: all ease-in-out 0.1s;
 }
@@ -156,6 +156,7 @@ hr {
   background: url("images/quotes.png");
   position: absolute;
   left: 50px;
+  top: 5px;
 }
 
 #graphics #peopleImage {
@@ -227,7 +228,7 @@ hr {
 #videos {
   width: 300px;
   margin: 25px 0 20px 10px;
-  height: 580px;
+  height: 850px;
   float: right;
   background: #000;
   color: #ffffff;
