@@ -215,8 +215,9 @@ hr {
   right: -35px;
 }
 
-#gallery .content {
+#gallery {
   text-align: center;
+  padding-bottom: 5em;
 }
 
 #container {
