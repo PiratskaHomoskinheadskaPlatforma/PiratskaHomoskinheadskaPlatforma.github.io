@@ -13,22 +13,22 @@
             <script>
                 function getMembersFromGraphAPI() {
                     var myUrl = 'https://graph.pirati.cz/deadbeef-babe-f002-000000000121/members';
-                    var proxy = 'https://www.whateverorigin.org/get?url=';
-                    var finalURL = proxy + encodeURIComponent(myUrl) + '&callback=?';
+                    //var proxy = 'https://www.whateverorigin.org/get?url=';
+                    var proxy = 'https://api.allorigins.win/get?url=';
+                    var finalURL = proxy + encodeURIComponent(myUrl);// + '&callback=?';
 
                     // FETCHING DATA FROM JSON FILE
-                    $.getJSON(myUrl, function (data) {
+                    $.getJSON(finalURL, function (data) {
+                        var obj = $.parseJSON(data.contents);
+                        var member = '';
+
                         // sort alphabetically
-                        data.sort( function( a, b ) {
+                        obj.sort( function( a, b ) {
                             a = a.username.toLowerCase();
                             b = b.username.toLowerCase();
 
                             return a < b ? -1 : a > b ? 1 : 0;
                         });
-
-                        //var obj = $.parseJSON(data);
-                        var obj = data; // already parsed as json
-                        var member = '';
 
                         // ITERATING THROUGH OBJECTS
                         $.each(obj, function (key, value) {
