@@ -2,11 +2,10 @@
     <div class="content">
         <div id="wrapperContent" class="center">
             <h1>Jak se stát šlemem?</h1>
-            <p>Aby se bytost stala šlemem Pirátské homoskinheadské platformy, musí vstoupit do skupiny "Zobrazit - Podpalubí" na <a href="https://forum.pirati.cz/">vtipu Pirátské strany</a>.</p>
-            <p>Postupuj dle následujícího návodu:</p>
-            <img src="images/slem_podpalubi.gif" />
-            <p>&nbsp;</p>
-            <h1>Seznam šlemů</h1>
+            <p class="bold pink">Aby se bytost stala šlemem Pirátské homoskinheadské platformy, musí vstoupit do skupiny <a href="https://forum.pirati.cz/memberlist.php?mode=group&g=121">Zobrazit - Podpalubí</a> na <a href="https://forum.pirati.cz/">vtipu Pirátské strany</a>.</p>
+            <p>Postupuj dle následujícího návodu:<br /><br />
+            <img src="images/slem_podpalubi.gif" /></p>
+            <h1 class="totalCnt">Seznam šlemů</h1>
             <div id="members">
                 <div id="spinner" class="loader"></div>
             </div>
@@ -40,18 +39,23 @@
                         });
                         
                         if(member != "") {
+                            // hide loading animation
                             $("#spinner").hide();
+                        
+                            //INSERTING ROWS INTO TABLE 
+                            $('#members').append(member);
+
+                            // random pixel avatar
+                            $('.gixi').each(function() { $(this).gixi(); });
+
+                            // title to members count
+                            $('h1.totalCnt').html("Máme už " + obj.length + " šlemů!");
                         }
-
-                        //INSERTING ROWS INTO TABLE 
-                        $('#members').append(member);
-                        $('.gixi').each(function() { $(this).gixi(); });
-
                     });
                 }
 
                 $(document).ready(function () {
-                    getMembersFromGraphAPI();
+                    setTimeout(getMembersFromGraphAPI(), 500);
                 });
                 </script>
         </div>

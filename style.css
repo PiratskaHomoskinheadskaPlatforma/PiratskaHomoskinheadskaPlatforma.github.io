@@ -426,6 +426,14 @@ div.content {
   font-size: 8.5pt;
 }
 
+.bold {
+  font-weight: 600;
+}
+
+.pink {
+  color: #DD137B !important;
+}
+
 .loader {
   width: 84px;
   height: 84px;
