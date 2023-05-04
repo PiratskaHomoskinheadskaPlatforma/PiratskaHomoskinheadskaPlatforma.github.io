@@ -359,18 +359,31 @@ hr {
   transform: scaleX(-1);
 }
 
+#members {
+  padding: 0 10em 0 10em;
+}
 #members div.member {
   display: inline-block;
-  width: 240px;
+  width: 220px;
   height: 40px;
-  padding: 6px;
+  padding: 6px 6px 6px 60px;
   margin: 6px;
   border: solid 1px #cccccc;
-  line-height: 40px;
+  line-height: 43px;
+  position: relative;
+  text-align: left;
 }
 #members div.member:hover {
   color: #DD137B;
   cursor: url('images/cursors/Pirate.cur'),auto;
+}
+#members div.member div.gixi {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  position: absolute;
+  left: 6px;
+  top: 6px;
 }
 
 div.content {
