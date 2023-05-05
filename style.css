@@ -57,7 +57,7 @@ hr {
   width: 100%;
   border: none;
   height: 4px;
-  background: none;
+  background: #DD137B;
 }
 #headerLine {
   background: #000;
@@ -302,7 +302,7 @@ hr {
 
 #about .krtkomo {
   float: left;
-  margin: 0em 2em 1em 2em;
+  margin: 0.5em 2em 1em 2em;
 }
 
 #wrapperContent {
