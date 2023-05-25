@@ -10,6 +10,9 @@
                 <div id="spinner" class="loader"></div>
             </div>
             <script>
+                var member = '';
+                var memberCountTotal = 0;
+
                 function getMembersFromGraphAPI() {
                     var myUrl = 'https://graph.pirati.cz/deadbeef-babe-f002-000000000121/members';
                     //var proxy = 'https://www.whateverorigin.org/get?url=';
@@ -19,7 +22,6 @@
                     // FETCHING DATA FROM JSON FILE
                     $.getJSON(finalURL, function (data) {
                         var obj = $.parseJSON(data.contents);
-                        var member = '';
 
                         // sort alphabetically
                         obj.sort( function( a, b ) {
@@ -37,7 +39,27 @@
                             member += "<div class='member'><div class='gixi'></div>" + 
                             value.username + '</div>';
                         });
-                        
+                        memberCountTotal = obj.length;
+                    });
+                }
+
+                function onKonamiCode(cb) {
+                    var input = '';
+                    var key = '38384040373937396665';
+                    document.addEventListener('keydown', function (e) {
+                        input += ("" + e.keyCode);
+                        if (input === key) {
+                        return cb();
+                        }
+                        if (!key.indexOf(input)) return;
+                        input = ("" + e.keyCode);
+                    });
+                }
+
+
+                $(document).ready(function () {
+                    setTimeout(getMembersFromGraphAPI(), 500);
+                    onKonamiCode(function () {
                         if(member != "") {
                             // hide loading animation
                             $("#spinner").hide();
@@ -49,13 +71,9 @@
                             $('.gixi').each(function() { $(this).gixi(); });
 
                             // title to members count
-                            $('h1.totalCnt').html("Máme už " + obj.length + " šlemů!");
+                            $('h1.totalCnt').html("Máme už " + memberCountTotal + " šlemů!");
                         }
                     });
-                }
-
-                $(document).ready(function () {
-                    setTimeout(getMembersFromGraphAPI(), 500);
                 });
                 </script>
         </div>
