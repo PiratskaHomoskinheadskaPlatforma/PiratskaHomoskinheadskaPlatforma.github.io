@@ -36,7 +36,13 @@
 
                             //CONSTRUCTION OF ROWS HAVING
                             // DATA FROM JSON OBJECT
-                            member += "<div class='member'><div class='gixi'></div>" + 
+                            if(value.email.includes("@pirati.cz")) {
+                                member += "<div class='member pirat'>";
+                            }
+                            else {
+                                member += "<div class='member'>";
+                            }
+                            member += "<div class='gixi'></div>" + 
                             value.username + '</div>';
                         });
                         memberCountTotal = obj.length;

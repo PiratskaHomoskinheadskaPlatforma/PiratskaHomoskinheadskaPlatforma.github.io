@@ -390,7 +390,7 @@ hr {
   position: relative;
   text-align: left;
 }
-#members div.member:hover {
+#members div.pirat:hover {
   color: #DD137B;
   cursor: url('images/cursors/Pirate.cur'),auto;
 }
