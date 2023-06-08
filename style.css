@@ -390,8 +390,10 @@ hr {
   position: relative;
   text-align: left;
 }
-#members div.pirat:hover {
+#members div.member:hover {
   color: #DD137B;
+}
+#members div.pirat:hover {
   cursor: url('images/cursors/Pirate.cur'),auto;
 }
 #members div.member div.gixi {
