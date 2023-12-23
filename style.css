@@ -165,6 +165,7 @@ video {
   top: -64px;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 56%, 0 100%);
   clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
+  opacity: 0.7;
 }
 
 #graphics img.logo {
