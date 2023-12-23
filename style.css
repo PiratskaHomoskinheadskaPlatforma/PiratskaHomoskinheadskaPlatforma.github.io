@@ -59,13 +59,47 @@ hr {
   height: 4px;
   background: #DD137B;
 }
-#headerLine {
-  background: #000;
+
+
+#wavingFlag {
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
-  padding: 5px 0 5px 0;
+  height: 100%;
+  object-fit: cover; /* Zajistí, aby video správně zvětšovalo/zmenšovalo */
+}
+
+video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Zajistí, aby video správně zvětšovalo/zmenšovalo */
+  transform: scaleX(-1); /* Ozrcadlení vertikálně */
+}
+
+#overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.8); /* Bílé pozadí s průhledností 80% */
+}
+
+
+#headerLine {
+  width: 100%;
   font-size: 7.5pt;
   color: #fff;
   text-align: center;
+}
+
+#headerLine .content {
+  background: #000;
+  padding: 5px 0 5px 0;
 }
 
 #headerLine a, #footer a {
@@ -172,12 +206,14 @@ hr {
   text-align: center;
   padding-bottom: 2em;
   margin-top: -2em;
+  z-index: 1;
 }
 
 #middleLinks {
   padding: 50px 0 100px 0;
   flex: content;
   text-align: center;
+  z-index: 1;
 }
 
 #middleLinks h1, .about h1, h1.totalCnt {
@@ -330,14 +366,18 @@ hr {
 }
 
 #footer {
-  /*background: url("images/lightGrey.png") repeat;*/
-  background: #000;
   font-size: 10pt;
-  padding-bottom: 50px;
+  width: 100%;
+  max-width: 100%;
+  background: #000 !important;
 }
 
 #footer div.content {
-  padding: 25px 0 25px 0;
+  /*background: url("images/lightGrey.png") repeat;*/
+  background: #000 !important;
+  padding: 25px 0 75px 0;
+  width: 100%;
+  max-width: 100%;
 }
 
 #footer div.rightCol {
@@ -345,6 +385,7 @@ hr {
   right: 0;
   top: 60px;
   text-align: right;
+  margin-right: 2em;
 }
 
 #disclaimer {
@@ -411,10 +452,6 @@ div.content {
   margin: auto;
   position: relative;
   color: #f3f3f3;
-}
-
-#footer div.content {
-  width: 90%;
 }
 
 .floatRight {
